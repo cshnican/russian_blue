@@ -1,0 +1,1777 @@
+subject_id,trial_index,is_monolingual,colour,num,resp,resp_fixed,rt
+54af2a48fdf99b09c01b3801,593,NA,blues,20,blue,blue,3010.8
+54af2a48fdf99b09c01b3801,594,NA,reds,20,red,red,1069.7
+54af2a48fdf99b09c01b3801,595,NA,reds,1,pink,pink,995.4000001
+54af2a48fdf99b09c01b3801,596,NA,browns,20,brown,brown,1799.2
+54af2a48fdf99b09c01b3801,597,NA,yellows,20,orange,orange,1240.4
+54af2a48fdf99b09c01b3801,598,NA,blues,1,blue,blue,949.7000003
+54af2a48fdf99b09c01b3801,599,NA,yellows,1,yellow,yellow,1651.2
+54af2a48fdf99b09c01b3801,600,NA,browns,1,beige,beige,2123.1
+557d84c8fdf99b4d577438df,593,NA,reds,1,pink,pink,8281.465
+557d84c8fdf99b4d577438df,594,NA,browns,20,brown,brown,2263.975
+557d84c8fdf99b4d577438df,595,NA,yellows,1,yellow,yellow,2423.345
+557d84c8fdf99b4d577438df,596,NA,browns,1,beige,beige,3106.98
+557d84c8fdf99b4d577438df,597,NA,yellows,20,orange,orange,2012.85
+557d84c8fdf99b4d577438df,598,NA,reds,20,red,red,2335.315
+557d84c8fdf99b4d577438df,599,NA,blues,1,blue,blue,2320.94
+557d84c8fdf99b4d577438df,600,NA,blues,20,blue,blue,1873.685
+5588d358fdf99b304ee5674f,593,NA,blues,20,blue,blue,2749.335
+5588d358fdf99b304ee5674f,594,NA,reds,20,red,red,1897.89
+5588d358fdf99b304ee5674f,595,NA,yellows,20,orange,orange,1824.54
+5588d358fdf99b304ee5674f,596,NA,blues,1,light blue,light blue,3300.89
+5588d358fdf99b304ee5674f,597,NA,yellows,1,yellow,yellow,1904.825
+5588d358fdf99b304ee5674f,598,NA,reds,1,fuschia,fuschia,3234.035
+5588d358fdf99b304ee5674f,599,NA,browns,20,brown,brown,1675.585
+5588d358fdf99b304ee5674f,600,NA,browns,1,tan,tan,3232.365
+55ae6a39fdf99b44a305f1eb,593,NA,browns,1,tan,tan,1848.8
+55ae6a39fdf99b44a305f1eb,594,NA,yellows,1,yellow,yellow,3798.7
+55ae6a39fdf99b44a305f1eb,595,NA,reds,20,red,red,1235.7
+55ae6a39fdf99b44a305f1eb,596,NA,blues,1,blue,blue,1302.2
+55ae6a39fdf99b44a305f1eb,597,NA,browns,20,brown,brown,1513.7
+55ae6a39fdf99b44a305f1eb,598,NA,blues,20,blue,blue,1221.9
+55ae6a39fdf99b44a305f1eb,599,NA,reds,1,pink,pink,1628.2
+55ae6a39fdf99b44a305f1eb,600,NA,yellows,20,orange,orange,1565.1
+55b237e6fdf99b19ea79d2f7,593,NA,yellows,20,orange,orange,5411.1
+55b237e6fdf99b19ea79d2f7,594,NA,reds,1,pink,pink,4469.9
+55b237e6fdf99b19ea79d2f7,595,NA,browns,20,brown,brown,3724
+55b237e6fdf99b19ea79d2f7,596,NA,blues,20,royal blue,royal blue,4955.5
+55b237e6fdf99b19ea79d2f7,597,NA,blues,1,light blue,light blue,5122.5
+55b237e6fdf99b19ea79d2f7,598,NA,browns,1,beige,beige,5096
+55b237e6fdf99b19ea79d2f7,599,NA,reds,20,red,red,3091
+55b237e6fdf99b19ea79d2f7,600,NA,yellows,1,yellow,yellow,3865.7
+55bede0dfdf99b6b67092299,593,NA,blues,1,blue,blue,2861.955
+55bede0dfdf99b6b67092299,594,NA,browns,1,tan,tan,1277.1
+55bede0dfdf99b6b67092299,595,NA,reds,20,red,red,990.92
+55bede0dfdf99b6b67092299,596,NA,blues,20,blue,blue,2331.19
+55bede0dfdf99b6b67092299,597,NA,yellows,20,orange,orange,1332.18
+55bede0dfdf99b6b67092299,598,NA,reds,1,pink,pink,1384.14
+55bede0dfdf99b6b67092299,599,NA,yellows,1,yellow,yellow,1622.035
+55bede0dfdf99b6b67092299,600,NA,browns,20,brown,brown,1578.77
+56d9f54b610fc0000bb76e8d,593,NA,reds,1,Pink,Pink,4518
+56d9f54b610fc0000bb76e8d,594,NA,browns,1,orange,orange,4455
+56d9f54b610fc0000bb76e8d,595,NA,blues,1,blue,blue,4124
+56d9f54b610fc0000bb76e8d,596,NA,blues,20,blue,blue,2563
+56d9f54b610fc0000bb76e8d,597,NA,yellows,1,yellow,yellow,3691
+56d9f54b610fc0000bb76e8d,598,NA,yellows,20,orange,orange,3319
+56d9f54b610fc0000bb76e8d,599,NA,reds,20,red,red,1405
+56d9f54b610fc0000bb76e8d,600,NA,browns,20,brown,brown,2696
+56ec2213388e1d000a5960c2,593,NA,browns,1,Tan,Tan,6060.9
+56ec2213388e1d000a5960c2,594,NA,reds,20,Red,Red,3221.9
+56ec2213388e1d000a5960c2,595,NA,browns,20,Brown,Brown,5122.2
+56ec2213388e1d000a5960c2,596,NA,blues,1,Light Blue,Light Blue,6820.9
+56ec2213388e1d000a5960c2,597,NA,yellows,1,Yellow,Yellow,3638.4
+56ec2213388e1d000a5960c2,598,NA,yellows,20,Orange,Orange,4910.5
+56ec2213388e1d000a5960c2,599,NA,blues,20,Blue,Blue,4058
+56ec2213388e1d000a5960c2,600,NA,reds,1,Pink,Pink,3433.7
+5716248ecd6ea20012daf2c1,593,NA,yellows,20,orange,orange,7145.1
+5716248ecd6ea20012daf2c1,594,NA,yellows,1,yellow,yellow,2072.4
+5716248ecd6ea20012daf2c1,595,NA,browns,20,brown,brown,2514.1
+5716248ecd6ea20012daf2c1,596,NA,browns,1,tan,tan,3052.1
+5716248ecd6ea20012daf2c1,597,NA,blues,1,light blue,light blue,4497.4
+5716248ecd6ea20012daf2c1,598,NA,reds,20,red,red,1337.2
+5716248ecd6ea20012daf2c1,599,NA,blues,20,blue,blue,1495
+5716248ecd6ea20012daf2c1,600,NA,reds,1,pink,pink,1700.8
+572d2656109ab6000f514e48,593,NA,browns,1,Peach,Peach,6619
+572d2656109ab6000f514e48,594,NA,yellows,1,Yellow,Yellow,2222
+572d2656109ab6000f514e48,595,NA,reds,20,Red,Red,1485
+572d2656109ab6000f514e48,596,NA,browns,20,Brown,Brown,2384
+572d2656109ab6000f514e48,597,NA,reds,1,Pink,Pink,1873
+572d2656109ab6000f514e48,598,NA,blues,1,Light blue,Light blue,3427
+572d2656109ab6000f514e48,599,NA,yellows,20,Orange,Orange,2748
+572d2656109ab6000f514e48,600,NA,blues,20,Blue,Blue,2587
+5761c23632676f0007eb36b3,593,NA,blues,20,blue,blue,5861
+5761c23632676f0007eb36b3,594,NA,browns,1,tan,tan,11899
+5761c23632676f0007eb36b3,595,NA,reds,1,pink,pink,4044
+5761c23632676f0007eb36b3,596,NA,yellows,1,yellow,yellow,4981
+5761c23632676f0007eb36b3,597,NA,reds,20,red,red,4241
+5761c23632676f0007eb36b3,598,NA,yellows,20,orange,orange,5139
+5761c23632676f0007eb36b3,599,NA,blues,1,blue,blue,5020
+5761c23632676f0007eb36b3,600,NA,browns,20,brown,brown,6011
+57681886236f930001a69b9a,593,NA,blues,20,blue,blue,3381
+57681886236f930001a69b9a,594,NA,browns,20,brown,brown,1902
+57681886236f930001a69b9a,595,NA,reds,20,red,red,1305
+57681886236f930001a69b9a,596,NA,browns,1,tan,tan,2144
+57681886236f930001a69b9a,597,NA,reds,1,pink,pink,1867
+57681886236f930001a69b9a,598,NA,blues,1,light blue,light blue,2628
+57681886236f930001a69b9a,599,NA,yellows,20,orange,orange,2082
+57681886236f930001a69b9a,600,NA,yellows,1,yellow,yellow,1835
+57d435c8ca054400014bac35 ,593,NA,blues,1,blue,blue,7176.265
+57d435c8ca054400014bac35 ,594,NA,browns,1,beige,beige,5483.96
+57d435c8ca054400014bac35 ,595,NA,reds,20,red,red,3219.745
+57d435c8ca054400014bac35 ,596,NA,yellows,1,yellow,yellow,3764.535
+57d435c8ca054400014bac35 ,597,NA,browns,20,brown,brown,5364.305
+57d435c8ca054400014bac35 ,598,NA,reds,1,pink,pink,3020.46
+57d435c8ca054400014bac35 ,599,NA,yellows,20,orange,orange,5036.845
+57d435c8ca054400014bac35 ,600,NA,blues,20,blue,blue,2884.495
+57fefff657ee39000120e089,593,NA,browns,1,Tan,Tan,6716.16
+57fefff657ee39000120e089,594,NA,browns,20,Brown,Brown,3000.71
+57fefff657ee39000120e089,595,NA,blues,20,Blue,Blue,3087.675
+57fefff657ee39000120e089,596,NA,yellows,1,Yellow,Yellow,3512.29
+57fefff657ee39000120e089,597,NA,reds,1,Pink,Pink,2518.125
+57fefff657ee39000120e089,598,NA,yellows,20,Orange,Orange,3173.275
+57fefff657ee39000120e089,599,NA,blues,1,Blue,Blue,1910.52
+57fefff657ee39000120e089,600,NA,reds,20,Red,Red,1511.885
+58ab75c4ef58a9000119d16c,593,NA,yellows,20,orange,orange,4080.175
+58ab75c4ef58a9000119d16c,594,NA,blues,1,sky blue,sky blue,5231.78
+58ab75c4ef58a9000119d16c,595,NA,reds,20,red,red,1983.62
+58ab75c4ef58a9000119d16c,596,NA,browns,20,brown,brown,1515.98
+58ab75c4ef58a9000119d16c,597,NA,browns,1,tan,tan,1360.995
+58ab75c4ef58a9000119d16c,598,NA,yellows,1,yellow,yellow,2027.725
+58ab75c4ef58a9000119d16c,599,NA,reds,1,pink,pink,2337.885
+58ab75c4ef58a9000119d16c,600,NA,blues,20,blue,blue,1251.5
+590819e205fbfc000147720c,593,NA,reds,1,pink,pink,4079
+590819e205fbfc000147720c,594,NA,browns,20,brown,brown,3852
+590819e205fbfc000147720c,595,NA,blues,20,blue,blue,1819
+590819e205fbfc000147720c,596,NA,yellows,1,yellow,yellow,3198
+590819e205fbfc000147720c,597,NA,browns,1,beige,beige,1980
+590819e205fbfc000147720c,598,NA,reds,20,red,red,1247
+590819e205fbfc000147720c,599,NA,blues,1,blue,blue,2018
+590819e205fbfc000147720c,600,NA,yellows,20,orange,orange,1632
+59a88f5b321f870001d16d68,593,NA,browns,20,brown,brown,12441
+59a88f5b321f870001d16d68,594,NA,blues,1,blue,blue,4085.1
+59a88f5b321f870001d16d68,595,NA,blues,20,dark blue,dark blue,4868.3
+59a88f5b321f870001d16d68,596,NA,yellows,20,orange,orange,3113.6
+59a88f5b321f870001d16d68,597,NA,yellows,1,yellow,yellow,2669.3
+59a88f5b321f870001d16d68,598,NA,browns,1,tan,tan,5542.7
+59a88f5b321f870001d16d68,599,NA,reds,1,pink,pink,2764.9
+59a88f5b321f870001d16d68,600,NA,reds,20,red,red,1851.9
+59c0a297c458e800017b5499,593,NA,reds,1,pink,pink,5576
+59c0a297c458e800017b5499,594,NA,reds,20,red,red,3689
+59c0a297c458e800017b5499,595,NA,blues,1,light blue,light blue,13317
+59c0a297c458e800017b5499,596,NA,yellows,1,yellow,yellow,3323
+59c0a297c458e800017b5499,597,NA,browns,20,brown,brown,3822
+59c0a297c458e800017b5499,598,NA,yellows,20,orange,orange,3337
+59c0a297c458e800017b5499,599,NA,blues,20,blue,blue,2477
+59c0a297c458e800017b5499,600,NA,browns,1,tan,tan,2951
+59c86f966a287600011c393e,593,NA,yellows,20,Orange,Orange,11473.1
+59c86f966a287600011c393e,594,NA,reds,20,Red,Red,5881.7
+59c86f966a287600011c393e,595,NA,browns,20,Brown,Brown,7735
+59c86f966a287600011c393e,596,NA,yellows,1,Yellow,Yellow,5525.1
+59c86f966a287600011c393e,597,NA,browns,1,Tan,Tan,13738.9
+59c86f966a287600011c393e,598,NA,reds,1,Pink,Pink,13141.3
+59c86f966a287600011c393e,599,NA,blues,20,Blue,Blue,5526.2
+59c86f966a287600011c393e,600,NA,blues,1,Light blue,Light blue,18295.9
+59f05fd65de9b000017ed8c3,593,NA,reds,1,pink,pink,10715.365
+59f05fd65de9b000017ed8c3,594,NA,yellows,1,bright yellow,bright yellow,4943.565
+59f05fd65de9b000017ed8c3,595,NA,yellows,20,orange,orange,2905.095
+59f05fd65de9b000017ed8c3,596,NA,browns,20,brown,brown,2444.5
+59f05fd65de9b000017ed8c3,597,NA,blues,20,blue,blue,1896.17
+59f05fd65de9b000017ed8c3,598,NA,reds,20,red,red,1501.92
+59f05fd65de9b000017ed8c3,599,NA,blues,1,cyan,cyan,2100.795
+59f05fd65de9b000017ed8c3,600,NA,browns,1,beige,beige,2047.155
+5a02083e087f2e0001eadbdb,593,NA,reds,1,pink,pink,3031.9
+5a02083e087f2e0001eadbdb,594,NA,yellows,1,yellow,yellow,1746.8
+5a02083e087f2e0001eadbdb,595,NA,blues,1,light blue,light blue,3132.7
+5a02083e087f2e0001eadbdb,596,NA,browns,1,tan,tan,1276.7
+5a02083e087f2e0001eadbdb,597,NA,browns,20,brown,brown,2931.7
+5a02083e087f2e0001eadbdb,598,NA,yellows,20,orange,orange,1956.3
+5a02083e087f2e0001eadbdb,599,NA,blues,20,blue,blue,1387.6
+5a02083e087f2e0001eadbdb,600,NA,reds,20,red,red,1163.4
+5a0e6ba1728b1b0001ad9aae,593,NA,blues,20,blue,blue,5539.895
+5a0e6ba1728b1b0001ad9aae,594,NA,browns,1,tan,tan,4993.1
+5a0e6ba1728b1b0001ad9aae,595,NA,reds,1,pink,pink,2261.855
+5a0e6ba1728b1b0001ad9aae,596,NA,browns,20,brown,brown,3270.08
+5a0e6ba1728b1b0001ad9aae,597,NA,yellows,1,yellow,yellow,2542.315
+5a0e6ba1728b1b0001ad9aae,598,NA,reds,20,red,red,2036.14
+5a0e6ba1728b1b0001ad9aae,599,NA,yellows,20,orange,orange,2396.79
+5a0e6ba1728b1b0001ad9aae,600,NA,blues,1,blue,blue,2206.365
+5a11e6eb30ad7f0001b6ca86,593,NA,browns,20,Brown,Brown,4932
+5a11e6eb30ad7f0001b6ca86,594,NA,blues,20,Blue,Blue,3890
+5a11e6eb30ad7f0001b6ca86,595,NA,yellows,1,Yellow,Yellow,2935
+5a11e6eb30ad7f0001b6ca86,596,NA,reds,1,Pink,Pink,2605
+5a11e6eb30ad7f0001b6ca86,597,NA,browns,1,Tan,Tan,7378
+5a11e6eb30ad7f0001b6ca86,598,NA,blues,1,Sky Blue,Sky Blue,4156
+5a11e6eb30ad7f0001b6ca86,599,NA,reds,20,Red,Red,1950
+5a11e6eb30ad7f0001b6ca86,600,NA,yellows,20,Orange,Orange,4899
+5a35ecbf57d4450001236fd3,593,NA,browns,1,tan,tan,8107.1
+5a35ecbf57d4450001236fd3,594,NA,reds,20,red,red,1326.2
+5a35ecbf57d4450001236fd3,595,NA,browns,20,brown,brown,1739.4
+5a35ecbf57d4450001236fd3,596,NA,blues,1,blue,blue,2825.1
+5a35ecbf57d4450001236fd3,597,NA,yellows,1,yellow,yellow,2096.7
+5a35ecbf57d4450001236fd3,598,NA,yellows,20,orange,orange,1662.6
+5a35ecbf57d4450001236fd3,599,NA,blues,20,blue,blue,1823.7
+5a35ecbf57d4450001236fd3,600,NA,reds,1,pink,pink,1803.9
+5a6ab0fbab58b500015f29db,593,NA,blues,20,blue,blue,6419.9
+5a6ab0fbab58b500015f29db,594,NA,reds,1,pink,pink,4473.6
+5a6ab0fbab58b500015f29db,595,NA,yellows,20,orange,orange,4596
+5a6ab0fbab58b500015f29db,596,NA,browns,20,brown,brown,4330.9
+5a6ab0fbab58b500015f29db,597,NA,reds,20,red,red,3660.9
+5a6ab0fbab58b500015f29db,598,NA,blues,1,aqua,aqua,6298.1
+5a6ab0fbab58b500015f29db,599,NA,browns,1,beige,beige,5425.5
+5a6ab0fbab58b500015f29db,600,NA,yellows,1,yellow,yellow,4316.8
+5aa8ebf089de8200013f8c48,593,NA,reds,1,pink,pink,12340.1
+5aa8ebf089de8200013f8c48,594,NA,browns,1,beige,beige,13698.5
+5aa8ebf089de8200013f8c48,595,NA,yellows,20,orange,orange,4744.8
+5aa8ebf089de8200013f8c48,596,NA,yellows,1,yellow,yellow,3714.8
+5aa8ebf089de8200013f8c48,597,NA,browns,20,brown,brown,3572.5
+5aa8ebf089de8200013f8c48,598,NA,reds,20,red,red,2193
+5aa8ebf089de8200013f8c48,599,NA,blues,1,blue,blue,9432.5
+5aa8ebf089de8200013f8c48,600,NA,blues,20,blue,blue,3207.4
+5ad90f90dec767000128a5f4,593,NA,browns,1,beige,beige,5362.8
+5ad90f90dec767000128a5f4,594,NA,blues,20,blue,blue,3240.7
+5ad90f90dec767000128a5f4,595,NA,reds,1,pink,pink,2601.4
+5ad90f90dec767000128a5f4,596,NA,browns,20,brown,brown,3238.3
+5ad90f90dec767000128a5f4,597,NA,yellows,20,orange,orange,3239.4
+5ad90f90dec767000128a5f4,598,NA,blues,1,blue,blue,2641.1
+5ad90f90dec767000128a5f4,599,NA,yellows,1,yellow,yellow,3687.9
+5ad90f90dec767000128a5f4,600,NA,reds,20,red,red,2175.7
+5afb8ab925561e00013b29e0,593,NA,browns,1,Beige,Beige,4413.2
+5afb8ab925561e00013b29e0,594,NA,reds,1,pink,pink,1876.2
+5afb8ab925561e00013b29e0,595,NA,yellows,1,yellow,yellow,1770.4
+5afb8ab925561e00013b29e0,596,NA,yellows,20,orange,orange,1412.1
+5afb8ab925561e00013b29e0,597,NA,reds,20,red,red,1028.6
+5afb8ab925561e00013b29e0,598,NA,blues,20,blue,blue,1327
+5afb8ab925561e00013b29e0,599,NA,browns,20,brown,brown,1342
+5afb8ab925561e00013b29e0,600,NA,blues,1,light blue,light blue,2867.2
+5b060d9e68eff50001d1a2c1,593,NA,yellows,20,orange,orange,3358.2
+5b060d9e68eff50001d1a2c1,594,NA,reds,20,red,red,1153.4
+5b060d9e68eff50001d1a2c1,595,NA,blues,1,sky blue,sky blue,3539.2
+5b060d9e68eff50001d1a2c1,596,NA,browns,1,tan,tan,1900.5
+5b060d9e68eff50001d1a2c1,597,NA,blues,20,royal blue,royal blue,3853.7
+5b060d9e68eff50001d1a2c1,598,NA,reds,1,pink,pink,1770.1
+5b060d9e68eff50001d1a2c1,599,NA,yellows,1,yellow,yellow,2160.2
+5b060d9e68eff50001d1a2c1,600,NA,browns,20,brown,brown,2503.3
+5b2464337297750001c6ce7a,593,NA,reds,20,red,red,4853.1
+5b2464337297750001c6ce7a,594,NA,reds,1,pink,pink,4454.5
+5b2464337297750001c6ce7a,595,NA,browns,20,brown,brown,6818.7
+5b2464337297750001c6ce7a,596,NA,yellows,1,yellow,yellow,2771.2
+5b2464337297750001c6ce7a,597,NA,blues,1,blue,blue,2490.6
+5b2464337297750001c6ce7a,598,NA,blues,20,blue,blue,1470.3
+5b2464337297750001c6ce7a,599,NA,yellows,20,orange,orange,2261.3
+5b2464337297750001c6ce7a,600,NA,browns,1,tan,tan,1756.7
+5b624a1a9351420001b8310b,593,NA,browns,1,tan,tan,2332
+5b624a1a9351420001b8310b,594,NA,blues,20,blue,blue,1807
+5b624a1a9351420001b8310b,595,NA,yellows,20,orange,orange,1447
+5b624a1a9351420001b8310b,596,NA,blues,1,pale blue,pale blue,4760
+5b624a1a9351420001b8310b,597,NA,reds,20,red,red,1263
+5b624a1a9351420001b8310b,598,NA,reds,1,pink,pink,1544
+5b624a1a9351420001b8310b,599,NA,yellows,1,yellow,yellow,2950
+5b624a1a9351420001b8310b,600,NA,browns,20,brown,brown,1526
+5b7f48514d32d900017c9ae1,593,NA,yellows,20,orange,orange,4490.5
+5b7f48514d32d900017c9ae1,594,NA,yellows,1,yellow,yellow,3579.2
+5b7f48514d32d900017c9ae1,595,NA,browns,20,dark brown,dark brown,5972.3
+5b7f48514d32d900017c9ae1,596,NA,blues,20,blue,blue,2565.9
+5b7f48514d32d900017c9ae1,597,NA,reds,20,red,red,1922.9
+5b7f48514d32d900017c9ae1,598,NA,blues,1,light blue,light blue,4347.8
+5b7f48514d32d900017c9ae1,599,NA,browns,1,tan,tan,1924.1
+5b7f48514d32d900017c9ae1,600,NA,reds,1,pink,pink,2238.4
+5b87e13126d98700015ed667,593,NA,yellows,20,orange,orange,37686.4
+5b87e13126d98700015ed667,594,NA,reds,1,purple,purple,9554.8
+5b87e13126d98700015ed667,595,NA,browns,1,brown,brown,10415.8
+5b87e13126d98700015ed667,596,NA,yellows,1,yellow,yellow,10040.1
+5b87e13126d98700015ed667,597,NA,reds,20,red,red,2713.7
+5b87e13126d98700015ed667,598,NA,blues,20,blue,blue,4425.4
+5b87e13126d98700015ed667,599,NA,blues,1,blue,blue,5403
+5b87e13126d98700015ed667,600,NA,browns,20,browm,browm,9681.2
+5b9217c162766e00012bb9c6,593,NA,blues,1,light blue,light blue,6238.5
+5b9217c162766e00012bb9c6,594,NA,blues,20,dark blue,dark blue,4730.6
+5b9217c162766e00012bb9c6,595,NA,browns,1,tan,tan,3959.8
+5b9217c162766e00012bb9c6,596,NA,yellows,20,dark orange,dark orange,8736.2
+5b9217c162766e00012bb9c6,597,NA,reds,1,pink,pink,4137.5
+5b9217c162766e00012bb9c6,598,NA,yellows,1,yellow,yellow,3321.5
+5b9217c162766e00012bb9c6,599,NA,browns,20,brown,brown,3305
+5b9217c162766e00012bb9c6,600,NA,reds,20,red,red,3741.8
+5b99872a357ce300014f2099,593,NA,blues,1,light blue,light blue,3511.21
+5b99872a357ce300014f2099,594,NA,reds,20,red,red,2573
+5b99872a357ce300014f2099,595,NA,yellows,1,yellow,yellow,2209.935
+5b99872a357ce300014f2099,596,NA,browns,20,brown,brown,1827.81
+5b99872a357ce300014f2099,597,NA,reds,1,pink,pink,2651.935
+5b99872a357ce300014f2099,598,NA,browns,1,beige,beige,2400.185
+5b99872a357ce300014f2099,599,NA,yellows,20,orange,orange,1985.575
+5b99872a357ce300014f2099,600,NA,blues,20,blue,blue,3701.41
+5b9b1de4d2599000010fb247,593,NA,blues,1,light blue,light blue,5332.15
+5b9b1de4d2599000010fb247,594,NA,yellows,20,orange,orange,3215.53
+5b9b1de4d2599000010fb247,595,NA,yellows,1,yellow,yellow,2066.815
+5b9b1de4d2599000010fb247,596,NA,reds,20,red,red,1994.875
+5b9b1de4d2599000010fb247,597,NA,blues,20,dark blue,dark blue,5476.955
+5b9b1de4d2599000010fb247,598,NA,browns,20,brown,brown,1724.4
+5b9b1de4d2599000010fb247,599,NA,browns,1,beige ,beige ,14214.425
+5b9b1de4d2599000010fb247,600,NA,reds,1,pink,pink,1949.645
+5b9dd07de671c60001226b79,593,NA,yellows,1,Yellow,Yellow,4230.645
+5b9dd07de671c60001226b79,594,NA,browns,1,Tan,Tan,4295.62
+5b9dd07de671c60001226b79,595,NA,reds,20,Red,Red,4678.34
+5b9dd07de671c60001226b79,596,NA,blues,20,Blue,Blue,3300.57
+5b9dd07de671c60001226b79,597,NA,blues,1,Aqua,Aqua,4458.235
+5b9dd07de671c60001226b79,598,NA,reds,1,Pink,Pink,3098.72
+5b9dd07de671c60001226b79,599,NA,yellows,20,Orange,Orange,4933.855
+5b9dd07de671c60001226b79,600,NA,browns,20,Brown,Brown,4823.395
+5ba345bcf07414000106135e,593,NA,browns,1,Tan,Tan,16040
+5ba345bcf07414000106135e,594,NA,yellows,1,Yellow,Yellow,26410
+5ba345bcf07414000106135e,595,NA,browns,20,Dark Brown,Dark Brown,12443
+5ba345bcf07414000106135e,596,NA,reds,1,Pink,Pink,5961
+5ba345bcf07414000106135e,597,NA,reds,20,Red,Red,5272
+5ba345bcf07414000106135e,598,NA,blues,20,Navy Blue,Navy Blue,10186
+5ba345bcf07414000106135e,599,NA,blues,1,Light Blue,Light Blue,12377
+5ba345bcf07414000106135e,600,NA,yellows,20,Orange,Orange,6659
+5bad4be8b712f30001b87947,593,NA,yellows,1,yellow,yellow,23093.3
+5bad4be8b712f30001b87947,594,NA,yellows,20,orange,orange,5271.4
+5bad4be8b712f30001b87947,595,NA,blues,20,dark blue,dark blue,7769.3
+5bad4be8b712f30001b87947,596,NA,browns,1,tan,tan,6976.6
+5bad4be8b712f30001b87947,597,NA,blues,1,sky blue,sky blue,6295.4
+5bad4be8b712f30001b87947,598,NA,reds,1,pink,pink,6750
+5bad4be8b712f30001b87947,599,NA,browns,20,brown,brown,4614.2
+5bad4be8b712f30001b87947,600,NA,reds,20,red,red,2788.5
+5baec88f733441000102c719,593,NA,reds,20,red,red,4338
+5baec88f733441000102c719,594,NA,browns,20,brown,brown,2841.5
+5baec88f733441000102c719,595,NA,blues,1,blue,blue,1971.2
+5baec88f733441000102c719,596,NA,yellows,20,orange,orange,1363.4
+5baec88f733441000102c719,597,NA,blues,20,blue,blue,1176.2
+5baec88f733441000102c719,598,NA,reds,1,pink,pink,1362.1
+5baec88f733441000102c719,599,NA,browns,1,beige,beige,2515.2
+5baec88f733441000102c719,600,NA,yellows,1,yellow,yellow,1501.3
+5bbc0004ac45e6000131d380,593,NA,blues,20,blue,blue,4134.025
+5bbc0004ac45e6000131d380,594,NA,blues,1,light blue,light blue,5099.715
+5bbc0004ac45e6000131d380,595,NA,browns,1,beige,beige,2095.205
+5bbc0004ac45e6000131d380,596,NA,yellows,20,orange,orange,3838.535
+5bbc0004ac45e6000131d380,597,NA,yellows,1,yellow,yellow,2871.505
+5bbc0004ac45e6000131d380,598,NA,reds,20,red,red,1753.415
+5bbc0004ac45e6000131d380,599,NA,browns,20,brown,brown,1763.465
+5bbc0004ac45e6000131d380,600,NA,reds,1,lavendar,lavendar,2943.905
+5bc0cacb228a7600013cf77e,593,NA,yellows,1,yellow,yellow,2917.05
+5bc0cacb228a7600013cf77e,594,NA,blues,1,light blue,light blue,3049.19
+5bc0cacb228a7600013cf77e,595,NA,browns,1,tan,tan,3022.345
+5bc0cacb228a7600013cf77e,596,NA,reds,1,pink,pink,2211.445
+5bc0cacb228a7600013cf77e,597,NA,browns,20,brown,brown,6693.715
+5bc0cacb228a7600013cf77e,598,NA,reds,20,red,red,1612.85
+5bc0cacb228a7600013cf77e,599,NA,blues,20,dark blue,dark blue,3546.43
+5bc0cacb228a7600013cf77e,600,NA,yellows,20,orange,orange,2123.25
+5bc5356e65cfb8000154bd82,593,NA,yellows,20,orange,orange,7192.715
+5bc5356e65cfb8000154bd82,594,NA,reds,1,pink,pink,3020.185
+5bc5356e65cfb8000154bd82,595,NA,browns,20,brown,brown,4917.615
+5bc5356e65cfb8000154bd82,596,NA,blues,20,blue,blue,3940.425
+5bc5356e65cfb8000154bd82,597,NA,blues,1,sky blue,sky blue,15312.695
+5bc5356e65cfb8000154bd82,598,NA,browns,1,sand,sand,17224.54
+5bc5356e65cfb8000154bd82,599,NA,reds,20,red,red,3369.145
+5bc5356e65cfb8000154bd82,600,NA,yellows,1,yellow,yellow,3898.53
+5be2dab1dc5b8d0001ce18a9,593,NA,browns,20,brown,brown,1703.095
+5be2dab1dc5b8d0001ce18a9,594,NA,browns,1,beige,beige,1962.07
+5be2dab1dc5b8d0001ce18a9,595,NA,reds,1,pink,pink,1429.44
+5be2dab1dc5b8d0001ce18a9,596,NA,yellows,1,yellow,yellow,1934.895
+5be2dab1dc5b8d0001ce18a9,597,NA,blues,1,blue,blue,1398.885
+5be2dab1dc5b8d0001ce18a9,598,NA,yellows,20,orange,orange,1323.125
+5be2dab1dc5b8d0001ce18a9,599,NA,reds,20,red,red,877.435
+5be2dab1dc5b8d0001ce18a9,600,NA,blues,20,blue,blue,1045.14
+5be8eaff0e366e00017616ad,593,NA,blues,20,Royal Blue,Royal Blue,11636.1
+5be8eaff0e366e00017616ad,594,NA,blues,1,Baby Blue,Baby Blue,4898.6
+5be8eaff0e366e00017616ad,595,NA,yellows,1,Yellow,Yellow,7154.1
+5be8eaff0e366e00017616ad,596,NA,reds,20,Red,Red,3173.2
+5be8eaff0e366e00017616ad,597,NA,reds,1,Pink,Pink,4509.5
+5be8eaff0e366e00017616ad,598,NA,browns,1,Tan,Tan,3859.6
+5be8eaff0e366e00017616ad,599,NA,yellows,20,Orange,Orange,4308.9
+5be8eaff0e366e00017616ad,600,NA,browns,20,Brown,Brown,4415.2
+5bec26b494bff800011dd342,593,NA,blues,1,pale blue,pale blue,6423.8
+5bec26b494bff800011dd342,594,NA,yellows,1,neon yellow,neon yellow,4781.4
+5bec26b494bff800011dd342,595,NA,yellows,20,bright orange,bright orange,7972.8
+5bec26b494bff800011dd342,596,NA,browns,1,cream,cream,13998.2
+5bec26b494bff800011dd342,597,NA,reds,1,hot pink,hot pink,7912.3
+5bec26b494bff800011dd342,598,NA,reds,20,fire engine red,fire engine red,11735.4
+5bec26b494bff800011dd342,599,NA,browns,20,brown,brown,5583
+5bec26b494bff800011dd342,600,NA,blues,20,electric blue,electric blue,6274.5
+5bfc4058bab673000163c8af,593,NA,browns,1,light brown,light brown,20275.1
+5bfc4058bab673000163c8af,594,NA,browns,20,brown,brown,6217.9
+5bfc4058bab673000163c8af,595,NA,reds,1,pink,pink,4294.7
+5bfc4058bab673000163c8af,596,NA,blues,20,blue,blue,5270
+5bfc4058bab673000163c8af,597,NA,yellows,1,yellow,yellow,4902.6
+5bfc4058bab673000163c8af,598,NA,blues,1,light blue,light blue,7536.1
+5bfc4058bab673000163c8af,599,NA,yellows,20,orange,orange,5439.9
+5bfc4058bab673000163c8af,600,NA,reds,20,red,red,3667
+5c0017c8f4fb890001d68650,593,NA,blues,20,blue,blue,8999.6
+5c0017c8f4fb890001d68650,594,NA,reds,1,pink,pink,8236.2
+5c0017c8f4fb890001d68650,595,NA,yellows,20,orange,orange,7359.2
+5c0017c8f4fb890001d68650,596,NA,browns,20,brown,brown,9837
+5c0017c8f4fb890001d68650,597,NA,reds,20,orange,orange,20046.7
+5c0017c8f4fb890001d68650,598,NA,blues,1,blue,blue,13005
+5c0017c8f4fb890001d68650,599,NA,browns,1,tan,tan,5066.7
+5c0017c8f4fb890001d68650,600,NA,yellows,1,yellow,yellow,7600
+5c095f832570ea0001642474,593,NA,reds,20,red,red,3017.4
+5c095f832570ea0001642474,594,NA,yellows,1,yellow,yellow,3961.8
+5c095f832570ea0001642474,595,NA,blues,20,blue,blue,1656.3
+5c095f832570ea0001642474,596,NA,browns,20,brown,brown,2501.9
+5c095f832570ea0001642474,597,NA,browns,1,tan,tan,12728.8
+5c095f832570ea0001642474,598,NA,blues,1,sky blue,sky blue,3458.6
+5c095f832570ea0001642474,599,NA,reds,1,pink,pink,4287
+5c095f832570ea0001642474,600,NA,yellows,20,orange,orange,10994.2
+5c0acc4dd56d2200015a9680,593,NA,reds,1,pink,pink,7298.795
+5c0acc4dd56d2200015a9680,594,NA,browns,1,taupe,taupe,4992.705
+5c0acc4dd56d2200015a9680,595,NA,reds,20,red,red,1816.9
+5c0acc4dd56d2200015a9680,596,NA,yellows,20,orange,orange,2072.62
+5c0acc4dd56d2200015a9680,597,NA,yellows,1,yellow,yellow,2201.43
+5c0acc4dd56d2200015a9680,598,NA,browns,20,black,black,5720.75
+5c0acc4dd56d2200015a9680,599,NA,blues,1,blue,blue,1585.96
+5c0acc4dd56d2200015a9680,600,NA,blues,20,dark blue,dark blue,3666.77
+5c0fa46ebeb54500011921dc,593,NA,browns,1,tan,tan,5158.6
+5c0fa46ebeb54500011921dc,594,NA,yellows,1,yellow,yellow,1984.1
+5c0fa46ebeb54500011921dc,595,NA,blues,20,blue,blue,1337.5
+5c0fa46ebeb54500011921dc,596,NA,browns,20,brown,brown,1478.7
+5c0fa46ebeb54500011921dc,597,NA,blues,1,cyan,cyan,4664.2
+5c0fa46ebeb54500011921dc,598,NA,reds,20,red,red,1333.9
+5c0fa46ebeb54500011921dc,599,NA,reds,1,pink,pink,1644.9
+5c0fa46ebeb54500011921dc,600,NA,yellows,20,orange,orange,1892.1
+5c10724111fe9a00013cd815,593,NA,browns,1,light brown,light brown,14620
+5c10724111fe9a00013cd815,594,NA,reds,1,pink,pink,11169
+5c10724111fe9a00013cd815,595,NA,yellows,1,bright yellow,bright yellow,8377
+5c10724111fe9a00013cd815,596,NA,blues,20,dark blue,dark blue,6338
+5c10724111fe9a00013cd815,597,NA,reds,20,dark red,dark red,11336
+5c10724111fe9a00013cd815,598,NA,browns,20,dark brown,dark brown,7421
+5c10724111fe9a00013cd815,599,NA,yellows,20,dark orange,dark orange,19505
+5c10724111fe9a00013cd815,600,NA,blues,1,light blue,light blue,6068
+5c1b06d9a329230001ecc39c,593,NA,blues,1,light blue,light blue,13702
+5c1b06d9a329230001ecc39c,594,NA,reds,1,pink,pink,11152
+5c1b06d9a329230001ecc39c,595,NA,browns,1,light brown,light brown,14453
+5c1b06d9a329230001ecc39c,596,NA,yellows,1,yellow,yellow,4553
+5c1b06d9a329230001ecc39c,597,NA,browns,20,dark brown,dark brown,5698
+5c1b06d9a329230001ecc39c,598,NA,yellows,20,orange,orange,3595
+5c1b06d9a329230001ecc39c,599,NA,reds,20,red,red,3415
+5c1b06d9a329230001ecc39c,600,NA,blues,20,blue,blue,3589
+5c2b6f4cda51990001e3ae6a,593,NA,reds,20,red,red,2635.6
+5c2b6f4cda51990001e3ae6a,594,NA,blues,1,light blue,light blue,3350.6
+5c2b6f4cda51990001e3ae6a,595,NA,yellows,20,orange,orange,1577.2
+5c2b6f4cda51990001e3ae6a,596,NA,browns,1,beige,beige,2216.1
+5c2b6f4cda51990001e3ae6a,597,NA,yellows,1,yellow,yellow,2203.5
+5c2b6f4cda51990001e3ae6a,598,NA,reds,1,pink,pink,1533.6
+5c2b6f4cda51990001e3ae6a,599,NA,browns,20,brown,brown,1925
+5c2b6f4cda51990001e3ae6a,600,NA,blues,20,blue,blue,1688.5
+5c411edd4f48240001b358e0,593,NA,browns,1,beige,beige,17923
+5c411edd4f48240001b358e0,594,NA,browns,20,brown,brown,3896.6
+5c411edd4f48240001b358e0,595,NA,reds,20,red,red,2761.4
+5c411edd4f48240001b358e0,596,NA,yellows,1,yellow,yellow,5054.1
+5c411edd4f48240001b358e0,597,NA,blues,20,blue,blue,3898.8
+5c411edd4f48240001b358e0,598,NA,blues,1,light blue,light blue,4226.1
+5c411edd4f48240001b358e0,599,NA,yellows,20,orange,orange,4785
+5c411edd4f48240001b358e0,600,NA,reds,1,pink,pink,11302.1
+5c43313e6caa200001745620,593,NA,yellows,20,dark yellow,dark yellow,13655.7
+5c43313e6caa200001745620,594,NA,reds,1,light pink,light pink,7590.3
+5c43313e6caa200001745620,595,NA,yellows,1,pale yellow,pale yellow,7536
+5c43313e6caa200001745620,596,NA,browns,20,medium brown,medium brown,13762.2
+5c43313e6caa200001745620,597,NA,browns,1,tan,tan,5374.5
+5c43313e6caa200001745620,598,NA,reds,20,red,red,4021.2
+5c43313e6caa200001745620,599,NA,blues,1,pale blue,pale blue,7973.6
+5c43313e6caa200001745620,600,NA,blues,20,blue,blue,5137.9
+5c47784e85a4920001eb885a,593,NA,blues,20,blue,blue,3241.3
+5c47784e85a4920001eb885a,594,NA,browns,1,beige,beige,2196.7
+5c47784e85a4920001eb885a,595,NA,yellows,1,yellow,yellow,2534.1
+5c47784e85a4920001eb885a,596,NA,yellows,20,orange,orange,1886.8
+5c47784e85a4920001eb885a,597,NA,blues,1,blue,blue,1773.9
+5c47784e85a4920001eb885a,598,NA,reds,20,red,red,1276.6
+5c47784e85a4920001eb885a,599,NA,reds,1,pink,pink,1825.7
+5c47784e85a4920001eb885a,600,NA,browns,20,brown,brown,1641.7
+5c47cab451c26300012cdd41,593,NA,reds,20,red,red,4512.405
+5c47cab451c26300012cdd41,594,NA,yellows,20,orange,orange,4187.83
+5c47cab451c26300012cdd41,595,NA,yellows,1,yellow,yellow,3671.815
+5c47cab451c26300012cdd41,596,NA,browns,20,brown,brown,4022.2
+5c47cab451c26300012cdd41,597,NA,reds,1,pink,pink,3534.62
+5c47cab451c26300012cdd41,598,NA,browns,1,tan,tan,3555.09
+5c47cab451c26300012cdd41,599,NA,blues,20,blue,blue,3721.995
+5c47cab451c26300012cdd41,600,NA,blues,1,light blue,light blue,4373.81
+5c48cf663664d10001aade27,593,NA,blues,1,baby blue,baby blue,5414
+5c48cf663664d10001aade27,594,NA,reds,20,red,red,8447.2
+5c48cf663664d10001aade27,595,NA,browns,1,tan,tan,3291.2
+5c48cf663664d10001aade27,596,NA,reds,1,pink,pink,1611.6
+5c48cf663664d10001aade27,597,NA,yellows,20,orange,orange,2370.5
+5c48cf663664d10001aade27,598,NA,blues,20,blue,blue,1567.8
+5c48cf663664d10001aade27,599,NA,browns,20,brown,brown,2651.5
+5c48cf663664d10001aade27,600,NA,yellows,1,yellow,yellow,3057.9
+5c4e9decc477f10001d90ac9,593,NA,reds,1,pink,pink,3895
+5c4e9decc477f10001d90ac9,594,NA,blues,20,blue,blue,3523
+5c4e9decc477f10001d90ac9,595,NA,browns,20,brown,brown,3780.4
+5c4e9decc477f10001d90ac9,596,NA,reds,20,red,red,2143.6
+5c4e9decc477f10001d90ac9,597,NA,blues,1,light blue,light blue,7478.9
+5c4e9decc477f10001d90ac9,598,NA,yellows,1,yellow,yellow,2629.5
+5c4e9decc477f10001d90ac9,599,NA,browns,1,tan,tan,2128.9
+5c4e9decc477f10001d90ac9,600,NA,yellows,20,orange,orange,2033.8
+5c510b41e459660001e38861,593,NA,blues,20,blue,blue,15974.6
+5c510b41e459660001e38861,594,NA,blues,1,sky blue,sky blue,12133.2
+5c510b41e459660001e38861,595,NA,reds,1,pink,pink,7033.9
+5c510b41e459660001e38861,596,NA,browns,1,beige,beige,8795.6
+5c510b41e459660001e38861,597,NA,yellows,20,orange,orange,6938.8
+5c510b41e459660001e38861,598,NA,browns,20,brown,brown,5908.3
+5c510b41e459660001e38861,599,NA,reds,20,red,red,13269.7
+5c510b41e459660001e38861,600,NA,yellows,1,yellow,yellow,7014.1
+5c5256bb6543bc0001849599,593,NA,reds,1,pink,pink,7022.4
+5c5256bb6543bc0001849599,594,NA,browns,20,brown,brown,1752.1
+5c5256bb6543bc0001849599,595,NA,blues,20,blue,blue,1409.8
+5c5256bb6543bc0001849599,596,NA,yellows,1,yellow,yellow,1774.5
+5c5256bb6543bc0001849599,597,NA,yellows,20,orange,orange,1641.5
+5c5256bb6543bc0001849599,598,NA,blues,1,baby blue,baby blue,6259.5
+5c5256bb6543bc0001849599,599,NA,browns,1,beige,beige,2528.7
+5c5256bb6543bc0001849599,600,NA,reds,20,red,red,1237.1
+5c5fc0136467ac0001b80940,593,NA,yellows,1,yellow,yellow,3462.2
+5c5fc0136467ac0001b80940,594,NA,browns,1,tan,tan,2433.7
+5c5fc0136467ac0001b80940,595,NA,reds,20,red,red,1695
+5c5fc0136467ac0001b80940,596,NA,blues,20,blue,blue,1557
+5c5fc0136467ac0001b80940,597,NA,blues,1,light blue,light blue,2297.8
+5c5fc0136467ac0001b80940,598,NA,reds,1,pink,pink,1492.9
+5c5fc0136467ac0001b80940,599,NA,yellows,20,orange,orange,1644
+5c5fc0136467ac0001b80940,600,NA,browns,20,brown,brown,1819.9
+5c62f95f68fb190001cdbd72,593,NA,yellows,1,Yello,Yello,7018.6
+5c62f95f68fb190001cdbd72,594,NA,yellows,20,Orange,Orange,5374.2
+5c62f95f68fb190001cdbd72,595,NA,browns,20,Brown,Brown,2110.6
+5c62f95f68fb190001cdbd72,596,NA,blues,20,Blue,Blue,1747.5
+5c62f95f68fb190001cdbd72,597,NA,browns,1,Base,Base,2706.4
+5c62f95f68fb190001cdbd72,598,NA,blues,1,Turqoise,Turqoise,2938.7
+5c62f95f68fb190001cdbd72,599,NA,reds,1,Pink,Pink,1569.6
+5c62f95f68fb190001cdbd72,600,NA,reds,20,Red,Red,1208.8
+5c69f9dd4b5bb30001b3d31c,593,NA,reds,1,pink,pink,6890.7
+5c69f9dd4b5bb30001b3d31c,594,NA,yellows,20,orange,orange,5500
+5c69f9dd4b5bb30001b3d31c,595,NA,blues,20,blue,blue,3299
+5c69f9dd4b5bb30001b3d31c,596,NA,browns,20,brown,brown,5211.7
+5c69f9dd4b5bb30001b3d31c,597,NA,reds,20,red,red,1797.3
+5c69f9dd4b5bb30001b3d31c,598,NA,yellows,1,yellow,yellow,3733.8
+5c69f9dd4b5bb30001b3d31c,599,NA,blues,1,light blue,light blue,4192.6
+5c69f9dd4b5bb30001b3d31c,600,NA,browns,1,peach,peach,4933.3
+5c6fb7c3c114eb00018b3154,593,NA,browns,20,brown,brown,8047.7
+5c6fb7c3c114eb00018b3154,594,NA,blues,1,sky blue,sky blue,5189.3
+5c6fb7c3c114eb00018b3154,595,NA,reds,1,velvet,velvet,5947.5
+5c6fb7c3c114eb00018b3154,596,NA,browns,1,tan,tan,3250.5
+5c6fb7c3c114eb00018b3154,597,NA,reds,20,red,red,2719
+5c6fb7c3c114eb00018b3154,598,NA,yellows,1,yellow,yellow,3578.1
+5c6fb7c3c114eb00018b3154,599,NA,blues,20,blue,blue,3871.6
+5c6fb7c3c114eb00018b3154,600,NA,yellows,20,orange,orange,3190.6
+5c80a72a979a7b0001f3c57b,593,NA,blues,20,blue,blue,2463.8
+5c80a72a979a7b0001f3c57b,594,NA,yellows,20,orange,orange,1641.1
+5c80a72a979a7b0001f3c57b,595,NA,yellows,1,yellow,yellow,1668.3
+5c80a72a979a7b0001f3c57b,596,NA,browns,20,brown,brown,1411.7
+5c80a72a979a7b0001f3c57b,597,NA,reds,20,red,red,1010.4
+5c80a72a979a7b0001f3c57b,598,NA,browns,1,taupe,taupe,1804.8
+5c80a72a979a7b0001f3c57b,599,NA,blues,1,light blue,light blue,3308.4
+5c80a72a979a7b0001f3c57b,600,NA,reds,1,pink,pink,1631.8
+5c82c9a4d8302a00010639b8,593,NA,yellows,20,orange,orange,3169.9
+5c82c9a4d8302a00010639b8,594,NA,browns,20,brown,brown,1838.9
+5c82c9a4d8302a00010639b8,595,NA,blues,1,teal,teal,1917.3
+5c82c9a4d8302a00010639b8,596,NA,reds,20,red,red,1224.4
+5c82c9a4d8302a00010639b8,597,NA,blues,20,blue,blue,1307.8
+5c82c9a4d8302a00010639b8,598,NA,yellows,1,yellow,yellow,3115.2
+5c82c9a4d8302a00010639b8,599,NA,reds,1,pink,pink,1510.6
+5c82c9a4d8302a00010639b8,600,NA,browns,1,beige,beige,4511
+5c8570c3bce73c00178c4dc6,593,NA,reds,20,red,red,6527.3
+5c8570c3bce73c00178c4dc6,594,NA,reds,1,pink,pink,6299.9
+5c8570c3bce73c00178c4dc6,595,NA,browns,1,beige,beige,9223.4
+5c8570c3bce73c00178c4dc6,596,NA,yellows,1,yellow,yellow,3861.5
+5c8570c3bce73c00178c4dc6,597,NA,yellows,20,orange,orange,4426.1
+5c8570c3bce73c00178c4dc6,598,NA,browns,20,brown,brown,5819.1
+5c8570c3bce73c00178c4dc6,599,NA,blues,1,light blue,light blue,6171.4
+5c8570c3bce73c00178c4dc6,600,NA,blues,20,royal blue,royal blue,7808.1
+5c8839294b0de2000135270f,593,NA,yellows,20,orange,orange,6498
+5c8839294b0de2000135270f,594,NA,browns,1,beige,beige,5183
+5c8839294b0de2000135270f,595,NA,blues,20,blue,blue,4731
+5c8839294b0de2000135270f,596,NA,browns,20,black,black,4840
+5c8839294b0de2000135270f,597,NA,blues,1,light blue,light blue,6819
+5c8839294b0de2000135270f,598,NA,yellows,1,yellow,yellow,3589
+5c8839294b0de2000135270f,599,NA,reds,1,fuschia,fuschia,17379
+5c8839294b0de2000135270f,600,NA,reds,20,red,red,2316
+5c93073250e4fb0001f7907b,593,NA,reds,1,pink,pink,8268.94
+5c93073250e4fb0001f7907b,594,NA,reds,20,red,red,2261.895
+5c93073250e4fb0001f7907b,595,NA,yellows,1,yellow,yellow,2629.705
+5c93073250e4fb0001f7907b,596,NA,browns,1,beige,beige,4829.73
+5c93073250e4fb0001f7907b,597,NA,blues,1,blue,blue,2620.71
+5c93073250e4fb0001f7907b,598,NA,browns,20,brown,brown,2817.2
+5c93073250e4fb0001f7907b,599,NA,blues,20,navy,navy,2767.31
+5c93073250e4fb0001f7907b,600,NA,yellows,20,orange,orange,3044.505
+5c9410988c4d820017d3622e,593,NA,browns,20,brown,brown,4153.5
+5c9410988c4d820017d3622e,594,NA,reds,1,pink,pink,2885.2
+5c9410988c4d820017d3622e,595,NA,blues,20,blue,blue,2563.7
+5c9410988c4d820017d3622e,596,NA,reds,20,red,red,1810.9
+5c9410988c4d820017d3622e,597,NA,yellows,20,orange,orange,2060.4
+5c9410988c4d820017d3622e,598,NA,browns,1,tan,tan,1974.7
+5c9410988c4d820017d3622e,599,NA,yellows,1,yellow,yellow,2107.1
+5c9410988c4d820017d3622e,600,NA,blues,1,blue,blue,1940.7
+5c9e89d950dde20001ce12b3,593,NA,browns,1,beige,beige,62001.8
+5c9e89d950dde20001ce12b3,594,NA,reds,1,pink,pink,3087.4
+5c9e89d950dde20001ce12b3,595,NA,yellows,1,yellow,yellow,4168.2
+5c9e89d950dde20001ce12b3,596,NA,blues,20,dark blue,dark blue,34617.2
+5c9e89d950dde20001ce12b3,597,NA,reds,20,red,red,2313.5
+5c9e89d950dde20001ce12b3,598,NA,browns,20,brown,brown,86100.3
+5c9e89d950dde20001ce12b3,599,NA,yellows,20,orange,orange,3989
+5c9e89d950dde20001ce12b3,600,NA,blues,1,light blue,light blue,5736
+5caa534a19731a00190bb935,593,NA,browns,20,brown,brown,11587
+5caa534a19731a00190bb935,594,NA,browns,1,pink,pink,5530.2
+5caa534a19731a00190bb935,595,NA,blues,20,blue,blue,2657
+5caa534a19731a00190bb935,596,NA,reds,1,bright pink,bright pink,11123.6
+5caa534a19731a00190bb935,597,NA,reds,20,red,red,2338.5
+5caa534a19731a00190bb935,598,NA,yellows,20,orange,orange,3003.6
+5caa534a19731a00190bb935,599,NA,blues,1,teal,teal,3327.8
+5caa534a19731a00190bb935,600,NA,yellows,1,yellow,yellow,3850.1
+5cabaa10ed17090015e1eb75,593,NA,browns,20,brown,brown,5650
+5cabaa10ed17090015e1eb75,594,NA,blues,1,light blue,light blue,5649
+5cabaa10ed17090015e1eb75,595,NA,reds,20,red,red,2719.2
+5cabaa10ed17090015e1eb75,596,NA,browns,1,beige,beige,5487.1
+5cabaa10ed17090015e1eb75,597,NA,blues,20,blue,blue,3689.8
+5cabaa10ed17090015e1eb75,598,NA,reds,1,pink,pink,3065.8
+5cabaa10ed17090015e1eb75,599,NA,yellows,20,orange,orange,3021.1
+5cabaa10ed17090015e1eb75,600,NA,yellows,1,yellow,yellow,3260.1
+5caeb56feb05440017fd4817,593,NA,browns,20,Brown,Brown,5088.54
+5caeb56feb05440017fd4817,594,NA,browns,1,Tan,Tan,2010.575
+5caeb56feb05440017fd4817,595,NA,yellows,20,Orange,Orange,1795.87
+5caeb56feb05440017fd4817,596,NA,reds,20,Red,Red,1346.545
+5caeb56feb05440017fd4817,597,NA,blues,1,Sky Blue,Sky Blue,3566.885
+5caeb56feb05440017fd4817,598,NA,reds,1,Pink,Pink,3608.615
+5caeb56feb05440017fd4817,599,NA,yellows,1,Yellow,Yellow,1947.155
+5caeb56feb05440017fd4817,600,NA,blues,20,Blue,Blue,1860.885
+5caf93416ef0d1001c761380,593,NA,reds,1,Pink,Pink,3266.06
+5caf93416ef0d1001c761380,594,NA,browns,1,Tan,Tan,2697.19
+5caf93416ef0d1001c761380,595,NA,reds,20,Red,Red,2377.8
+5caf93416ef0d1001c761380,596,NA,yellows,1,Yellow,Yellow,2190.475
+5caf93416ef0d1001c761380,597,NA,blues,20,Blue,Blue,1609.385
+5caf93416ef0d1001c761380,598,NA,yellows,20,Orange,Orange,1549.02
+5caf93416ef0d1001c761380,599,NA,browns,20,Brown,Brown,1719.34
+5caf93416ef0d1001c761380,600,NA,blues,1,Blue,Blue,1599.165
+5cb6527cdcd7180015d0a463,593,NA,yellows,1,yellow,yellow,12913.8
+5cb6527cdcd7180015d0a463,594,NA,reds,1,pink,pink,5261
+5cb6527cdcd7180015d0a463,595,NA,browns,1,beige,beige,11961.4
+5cb6527cdcd7180015d0a463,596,NA,blues,1,blue,blue,4100.1
+5cb6527cdcd7180015d0a463,597,NA,reds,20,red,red,2813.7
+5cb6527cdcd7180015d0a463,598,NA,yellows,20,orange,orange,3241.3
+5cb6527cdcd7180015d0a463,599,NA,browns,20,brown,brown,3692.1
+5cb6527cdcd7180015d0a463,600,NA,blues,20,blue,blue,4147.4
+5cc419f3291607001757c2ea,593,NA,blues,1,Blue,Blue,4603.8
+5cc419f3291607001757c2ea,594,NA,reds,1,Pink,Pink,1936.9
+5cc419f3291607001757c2ea,595,NA,reds,20,Red,Red,1281.7
+5cc419f3291607001757c2ea,596,NA,blues,20,Blue,Blue,1767.4
+5cc419f3291607001757c2ea,597,NA,browns,20,Brown,Brown,2442.8
+5cc419f3291607001757c2ea,598,NA,yellows,20,Orange,Orange,1578
+5cc419f3291607001757c2ea,599,NA,browns,1,pale pink,pale pink,7006.9
+5cc419f3291607001757c2ea,600,NA,yellows,1,yellow,yellow,1614.4
+5cc90a99f24f6c001c1692e7,593,NA,yellows,20,orange,orange,8851.5
+5cc90a99f24f6c001c1692e7,594,NA,blues,20,dark blue,dark blue,5494.3
+5cc90a99f24f6c001c1692e7,595,NA,blues,1,cyan,cyan,2716.8
+5cc90a99f24f6c001c1692e7,596,NA,yellows,1,yellow,yellow,1876.4
+5cc90a99f24f6c001c1692e7,597,NA,reds,20,red,red,1420.9
+5cc90a99f24f6c001c1692e7,598,NA,browns,1,light bage,light bage,12374.4
+5cc90a99f24f6c001c1692e7,599,NA,reds,1,pink,pink,5917.8
+5cc90a99f24f6c001c1692e7,600,NA,browns,20,brown,brown,2953
+5cc9f6273298a10001bbc7f4,593,NA,reds,20,red,red,3382
+5cc9f6273298a10001bbc7f4,594,NA,blues,20,blue,blue,2974.1
+5cc9f6273298a10001bbc7f4,595,NA,reds,1,pink,pink,1953.8
+5cc9f6273298a10001bbc7f4,596,NA,browns,1,tan,tan,6225.4
+5cc9f6273298a10001bbc7f4,597,NA,yellows,20,orange,orange,1740
+5cc9f6273298a10001bbc7f4,598,NA,yellows,1,yellow,yellow,2343.8
+5cc9f6273298a10001bbc7f4,599,NA,blues,1,light blue,light blue,4703.7
+5cc9f6273298a10001bbc7f4,600,NA,browns,20,brown,brown,1932.7
+5cd40ad8440dcc001510f91f,593,NA,yellows,20,orange,orange,10475
+5cd40ad8440dcc001510f91f,594,NA,browns,1,beige,beige,5991
+5cd40ad8440dcc001510f91f,595,NA,browns,20,brown,brown,5362
+5cd40ad8440dcc001510f91f,596,NA,blues,20,blue,blue,3437
+5cd40ad8440dcc001510f91f,597,NA,reds,1,pink,pink,3766
+5cd40ad8440dcc001510f91f,598,NA,blues,1,light blue,light blue,10599
+5cd40ad8440dcc001510f91f,599,NA,reds,20,red,red,3019
+5cd40ad8440dcc001510f91f,600,NA,yellows,1,yellow,yellow,4698
+5ce575e4fc370e001a34715a,593,NA,browns,1,Beige,Beige,3363.4
+5ce575e4fc370e001a34715a,594,NA,browns,20,Brown,Brown,2117.2
+5ce575e4fc370e001a34715a,595,NA,blues,20,Blue,Blue,1735
+5ce575e4fc370e001a34715a,596,NA,yellows,1,Yellow,Yellow,2165.4
+5ce575e4fc370e001a34715a,597,NA,reds,1,Pink,Pink,1693.1
+5ce575e4fc370e001a34715a,598,NA,yellows,20,Orange,Orange,1469
+5ce575e4fc370e001a34715a,599,NA,blues,1,Light blue,Light blue,4409.8
+5ce575e4fc370e001a34715a,600,NA,reds,20,Red,Red,2401.4
+5cfa77e907f7dd0001b163b7,593,NA,browns,1,beige,beige,5101.6
+5cfa77e907f7dd0001b163b7,594,NA,blues,20,blue,blue,1328.5
+5cfa77e907f7dd0001b163b7,595,NA,reds,20,red,red,757
+5cfa77e907f7dd0001b163b7,596,NA,reds,1,purple,purple,1535.8
+5cfa77e907f7dd0001b163b7,597,NA,yellows,20,orange,orange,1568.8
+5cfa77e907f7dd0001b163b7,598,NA,yellows,1,yellow,yellow,1453.7
+5cfa77e907f7dd0001b163b7,599,NA,browns,20,brown,brown,1219.8
+5cfa77e907f7dd0001b163b7,600,NA,blues,1,teal,teal,1279.4
+5cfaf97eadb3da00013c1eaa,593,NA,browns,1,brown,brown,6771.1
+5cfaf97eadb3da00013c1eaa,594,NA,blues,1,blue,blue,2682.1
+5cfaf97eadb3da00013c1eaa,595,NA,reds,1,pink,pink,1765
+5cfaf97eadb3da00013c1eaa,596,NA,browns,20,dark brown,dark brown,4048.4
+5cfaf97eadb3da00013c1eaa,597,NA,reds,20,red,red,4223
+5cfaf97eadb3da00013c1eaa,598,NA,yellows,20,orange,orange,3606.2
+5cfaf97eadb3da00013c1eaa,599,NA,blues,20,blue,blue,2706.4
+5cfaf97eadb3da00013c1eaa,600,NA,yellows,1,yemon yellow,yemon yellow,7367.5
+5cfb0e38c2de5300195231e9,593,NA,reds,1,pink,pink,7062
+5cfb0e38c2de5300195231e9,594,NA,browns,20,mud brown,mud brown,8580
+5cfb0e38c2de5300195231e9,595,NA,blues,20,royal blue,royal blue,4232
+5cfb0e38c2de5300195231e9,596,NA,yellows,1,canary yellow,canary yellow,3922
+5cfb0e38c2de5300195231e9,597,NA,browns,1,beige,beige,6415
+5cfb0e38c2de5300195231e9,598,NA,reds,20,red,red,3344
+5cfb0e38c2de5300195231e9,599,NA,blues,1,baby blue,baby blue,5732
+5cfb0e38c2de5300195231e9,600,NA,yellows,20,sunburnt orange,sunburnt orange,4229
+5d07f739f5d10a001815058e,593,NA,reds,20,red,red,3625.3
+5d07f739f5d10a001815058e,594,NA,browns,20,dark brown,dark brown,6307.6
+5d07f739f5d10a001815058e,595,NA,blues,20,navy blue,navy blue,4685
+5d07f739f5d10a001815058e,596,NA,reds,1,light pink,light pink,4883.9
+5d07f739f5d10a001815058e,597,NA,browns,1,tan,tan,2897.5
+5d07f739f5d10a001815058e,598,NA,yellows,20,orange,orange,3180.8
+5d07f739f5d10a001815058e,599,NA,blues,1,sky blue,sky blue,2682.5
+5d07f739f5d10a001815058e,600,NA,yellows,1,yellow,yellow,1834.1
+5d092069fb1a540001dd5028,593,NA,reds,20,red,red,3973.31
+5d092069fb1a540001dd5028,594,NA,blues,20,blue,blue,1780.585
+5d092069fb1a540001dd5028,595,NA,browns,20,brown,brown,1957.9
+5d092069fb1a540001dd5028,596,NA,reds,1,pink,pink,3896.365
+5d092069fb1a540001dd5028,597,NA,yellows,1,yellow,yellow,2055.01
+5d092069fb1a540001dd5028,598,NA,browns,1,tan,tan,1327.92
+5d092069fb1a540001dd5028,599,NA,blues,1,blue,blue,1566.325
+5d092069fb1a540001dd5028,600,NA,yellows,20,orange,orange,1868.19
+5d0e459e86e343000141468d,593,NA,yellows,1,yellow,yellow,5185.3
+5d0e459e86e343000141468d,594,NA,reds,20,red,red,3533.1
+5d0e459e86e343000141468d,595,NA,yellows,20,orange,orange,3677.8
+5d0e459e86e343000141468d,596,NA,browns,1,tan,tan,3869.6
+5d0e459e86e343000141468d,597,NA,reds,1,pink,pink,3053.7
+5d0e459e86e343000141468d,598,NA,blues,1,sky blue,sky blue,6206.3
+5d0e459e86e343000141468d,599,NA,blues,20,blue,blue,4733.9
+5d0e459e86e343000141468d,600,NA,browns,20,brown,brown,3485.7
+5d17c95fe722560015df9598,593,NA,yellows,1,yellow,yellow,2954.2
+5d17c95fe722560015df9598,594,NA,reds,20,red,red,1232.6
+5d17c95fe722560015df9598,595,NA,blues,20,blue,blue,1377.8
+5d17c95fe722560015df9598,596,NA,blues,1,blue,blue,1669.4
+5d17c95fe722560015df9598,597,NA,reds,1,pink,pink,1455.8
+5d17c95fe722560015df9598,598,NA,yellows,20,orange,orange,1978.7
+5d17c95fe722560015df9598,599,NA,browns,1,khaki,khaki,3241.9
+5d17c95fe722560015df9598,600,NA,browns,20,brown,brown,1345.3
+5d1d49b9bfcb7c001acc9a34,593,NA,browns,20,Brown,Brown,12987
+5d1d49b9bfcb7c001acc9a34,594,NA,blues,20,Blue,Blue,2737
+5d1d49b9bfcb7c001acc9a34,595,NA,browns,1,Beige,Beige,4064
+5d1d49b9bfcb7c001acc9a34,596,NA,yellows,1,Yellow,Yellow,3354
+5d1d49b9bfcb7c001acc9a34,597,NA,yellows,20,Orange,Orange,2446
+5d1d49b9bfcb7c001acc9a34,598,NA,reds,20,Red,Red,1473
+5d1d49b9bfcb7c001acc9a34,599,NA,reds,1,Pink,Pink,2536
+5d1d49b9bfcb7c001acc9a34,600,NA,blues,1,Baby Blue,Baby Blue,7943
+5d25e4c103aae8001b6552ef,593,NA,reds,1,pink,pink,3295
+5d25e4c103aae8001b6552ef,594,NA,yellows,1,yellow,yellow,2188
+5d25e4c103aae8001b6552ef,595,NA,browns,1,brown,brown,1490
+5d25e4c103aae8001b6552ef,596,NA,browns,20,brown,brown,1322
+5d25e4c103aae8001b6552ef,597,NA,reds,20,red,red,1146
+5d25e4c103aae8001b6552ef,598,NA,blues,20,blue,blue,1285
+5d25e4c103aae8001b6552ef,599,NA,yellows,20,orange,orange,2009
+5d25e4c103aae8001b6552ef,600,NA,blues,1,blue,blue,1343
+5d316c4442c2170018e10574,593,NA,reds,20,red,red,4367.3
+5d316c4442c2170018e10574,594,NA,reds,1,pink,pink,3372.2
+5d316c4442c2170018e10574,595,NA,yellows,1,yellow,yellow,3249.6
+5d316c4442c2170018e10574,596,NA,browns,20,brown,brown,3200.4
+5d316c4442c2170018e10574,597,NA,blues,20,blue,blue,4001.6
+5d316c4442c2170018e10574,598,NA,blues,1,light blue,light blue,4356
+5d316c4442c2170018e10574,599,NA,yellows,20,orange,orange,3275.9
+5d316c4442c2170018e10574,600,NA,browns,1,beige,beige,3810.4
+5d37de63b78497001ad6b44b,593,NA,blues,1,sky blue,sky blue,5989.5
+5d37de63b78497001ad6b44b,594,NA,browns,1,taupe,taupe,3852.7
+5d37de63b78497001ad6b44b,595,NA,reds,20,red,red,1634.8
+5d37de63b78497001ad6b44b,596,NA,yellows,20,orange,orange,2344.7
+5d37de63b78497001ad6b44b,597,NA,reds,1,pink,pink,1882.4
+5d37de63b78497001ad6b44b,598,NA,yellows,1,yellow,yellow,1798.2
+5d37de63b78497001ad6b44b,599,NA,browns,20,brown,brown,1853.6
+5d37de63b78497001ad6b44b,600,NA,blues,20,dark blue,dark blue,2680.4
+5d453e8723a5bb0001492546,593,NA,blues,1,cyan,cyan,11501.265
+5d453e8723a5bb0001492546,594,NA,reds,1,magenta,magenta,5801.89
+5d453e8723a5bb0001492546,595,NA,blues,20,blue,blue,7210.495
+5d453e8723a5bb0001492546,596,NA,yellows,20,orange,orange,33409.47
+5d453e8723a5bb0001492546,597,NA,reds,20,red,red,2891.835
+5d453e8723a5bb0001492546,598,NA,browns,20,brown,brown,3346.795
+5d453e8723a5bb0001492546,599,NA,browns,1,tan,tan,12332.47
+5d453e8723a5bb0001492546,600,NA,yellows,1,yellow,yellow,4067.67
+5d48652e983b1e0019576359,593,NA,yellows,1,Yellow,Yellow,2916.8
+5d48652e983b1e0019576359,594,NA,reds,1,Pink,Pink,1342.8
+5d48652e983b1e0019576359,595,NA,browns,20,Brown,Brown,1249.3
+5d48652e983b1e0019576359,596,NA,reds,20,Red,Red,1032.1
+5d48652e983b1e0019576359,597,NA,blues,20,Blue,Blue,1580.1
+5d48652e983b1e0019576359,598,NA,blues,1,Light blye,Light blue,2066.4
+5d48652e983b1e0019576359,599,NA,yellows,20,Orange,Orange,1580.3
+5d48652e983b1e0019576359,600,NA,browns,1,Beige,Beige,2556.5
+5d816efe41253e001843dfde,593,NA,blues,20,Blue ,Blue ,12157
+5d816efe41253e001843dfde,594,NA,browns,1,Yellow Orange,Yellow Orange,6708
+5d816efe41253e001843dfde,595,NA,yellows,1,Bright Yellow,Bright Yellow,5217
+5d816efe41253e001843dfde,596,NA,reds,1,Dusty Pink,Dusty Pink,4724
+5d816efe41253e001843dfde,597,NA,reds,20,Red,Red,1651
+5d816efe41253e001843dfde,598,NA,browns,20,brown,brown,2445
+5d816efe41253e001843dfde,599,NA,blues,1,sky blue,sky blue,2737
+5d816efe41253e001843dfde,600,NA,yellows,20,burnt orange,burnt orange,3369
+5d86e8aa1af55f00170ad486,593,NA,yellows,20,orange,orange,4539
+5d86e8aa1af55f00170ad486,594,NA,yellows,1,yellow,yellow,2266.3
+5d86e8aa1af55f00170ad486,595,NA,reds,20,red,red,3498.6
+5d86e8aa1af55f00170ad486,596,NA,blues,20,blue,blue,2221.3
+5d86e8aa1af55f00170ad486,597,NA,blues,1,light blue,light blue,3067.5
+5d86e8aa1af55f00170ad486,598,NA,reds,1,pink,pink,2002.7
+5d86e8aa1af55f00170ad486,599,NA,browns,1,beige,beige,4779.3
+5d86e8aa1af55f00170ad486,600,NA,browns,20,dark brown,dark brown,3541.9
+5d959dee97e560001a682caa,593,NA,yellows,1,yellow,yellow,5427.445
+5d959dee97e560001a682caa,594,NA,reds,20,red,red,2121.99
+5d959dee97e560001a682caa,595,NA,browns,20,dark brown,dark brown,3834.25
+5d959dee97e560001a682caa,596,NA,blues,1,sky blue,sky blue,4081.805
+5d959dee97e560001a682caa,597,NA,reds,1,pink,pink,3251.475
+5d959dee97e560001a682caa,598,NA,yellows,20,burnt orange,burnt orange,10794.64
+5d959dee97e560001a682caa,599,NA,blues,20,royal blue,royal blue,8174.155001
+5d959dee97e560001a682caa,600,NA,browns,1,tan,tan,4652.89
+5d975c8099c78d0011af746d,593,NA,reds,1,pink,pink,5424.01
+5d975c8099c78d0011af746d,594,NA,blues,1,blue,blue,4382.76
+5d975c8099c78d0011af746d,595,NA,yellows,1,yellow,yellow,1877.905
+5d975c8099c78d0011af746d,596,NA,blues,20,blue,blue,1355.54
+5d975c8099c78d0011af746d,597,NA,browns,20,brown,brown,1517.935
+5d975c8099c78d0011af746d,598,NA,browns,1,tan,tan,1365.18
+5d975c8099c78d0011af746d,599,NA,yellows,20,orange,orange,1533.175
+5d975c8099c78d0011af746d,600,NA,reds,20,red,red,1452.125
+5da64c3721d74a0016dfce74,593,NA,reds,1,Pink,Pink,3173.8
+5da64c3721d74a0016dfce74,594,NA,blues,1,Blue,Blue,2096
+5da64c3721d74a0016dfce74,595,NA,browns,1,Beige,Beige,1885.5
+5da64c3721d74a0016dfce74,596,NA,browns,20,Brown,Brown,1124.9
+5da64c3721d74a0016dfce74,597,NA,reds,20,Red,Red,1043.8
+5da64c3721d74a0016dfce74,598,NA,yellows,20,Orange,Orange,2291.1
+5da64c3721d74a0016dfce74,599,NA,blues,20,Blue,Blue,1206.1
+5da64c3721d74a0016dfce74,600,NA,yellows,1,Yellow,Yellow,1390
+5da8d4ea813dc400156b8cbf,593,NA,reds,20,Red,Red,2673.7
+5da8d4ea813dc400156b8cbf,594,NA,blues,20,Blue,Blue,1839
+5da8d4ea813dc400156b8cbf,595,NA,yellows,1,yellow,yellow,1638.5
+5da8d4ea813dc400156b8cbf,596,NA,browns,20,brown,brown,2512.2
+5da8d4ea813dc400156b8cbf,597,NA,reds,1,pink,pink,3601.1
+5da8d4ea813dc400156b8cbf,598,NA,blues,1,sky blue,sky blue,3034.3
+5da8d4ea813dc400156b8cbf,599,NA,browns,1,beige,beige,3347.1
+5da8d4ea813dc400156b8cbf,600,NA,yellows,20,orange,orange,2031.3
+5db222231ff7b4000ab2cfc1,593,NA,blues,1,light blue,light blue,5410.7
+5db222231ff7b4000ab2cfc1,594,NA,browns,1,tan,tan,2183.3
+5db222231ff7b4000ab2cfc1,595,NA,reds,1,medium pink,medium pink,4032
+5db222231ff7b4000ab2cfc1,596,NA,yellows,20,orange,orange,1764.9
+5db222231ff7b4000ab2cfc1,597,NA,yellows,1,yellow,yellow,1743.9
+5db222231ff7b4000ab2cfc1,598,NA,browns,20,brown,brown,1905.3
+5db222231ff7b4000ab2cfc1,599,NA,blues,20,blue,blue,1280.1
+5db222231ff7b4000ab2cfc1,600,NA,reds,20,red,red,1817.6
+5db508259ca75a000d583b9a,593,NA,reds,1,pink,pink,4145
+5db508259ca75a000d583b9a,594,NA,blues,1,blue,blue,2918
+5db508259ca75a000d583b9a,595,NA,yellows,1,yellow,yellow,3295
+5db508259ca75a000d583b9a,596,NA,blues,20,blue,blue,2711
+5db508259ca75a000d583b9a,597,NA,browns,1,tan,tan,5139
+5db508259ca75a000d583b9a,598,NA,yellows,20,orange,orange,2733
+5db508259ca75a000d583b9a,599,NA,browns,20,brown,brown,4327
+5db508259ca75a000d583b9a,600,NA,reds,20,red,red,2444
+5db54b75a3df85000edfa2cf,593,NA,reds,1,pink,pink,5753
+5db54b75a3df85000edfa2cf,594,NA,yellows,1,yellow,yellow,3826
+5db54b75a3df85000edfa2cf,595,NA,yellows,20,orange,orange,4359
+5db54b75a3df85000edfa2cf,596,NA,blues,1,light blue,light blue,4360
+5db54b75a3df85000edfa2cf,597,NA,blues,20,dark blue,dark blue,3695
+5db54b75a3df85000edfa2cf,598,NA,reds,20,red,red,2165
+5db54b75a3df85000edfa2cf,599,NA,browns,1,taupe,taupe,3483
+5db54b75a3df85000edfa2cf,600,NA,browns,20,brown,brown,3532
+5db5fa693d2b8e01654d351c,593,NA,yellows,20,Orange,Orange,6460.1
+5db5fa693d2b8e01654d351c,594,NA,reds,1,pink,pink,3639.5
+5db5fa693d2b8e01654d351c,595,NA,yellows,1,yellow,yellow,1811.8
+5db5fa693d2b8e01654d351c,596,NA,browns,20,brown,brown,1651.6
+5db5fa693d2b8e01654d351c,597,NA,reds,20,red,red,1179.6
+5db5fa693d2b8e01654d351c,598,NA,browns,1,beige,beige,4195.3
+5db5fa693d2b8e01654d351c,599,NA,blues,20,blue,blue,2794.9
+5db5fa693d2b8e01654d351c,600,NA,blues,1,sky blue,sky blue,3755.6
+5dc1eb838a84461511b3cd73,593,NA,blues,1,light blue,light blue,13345
+5dc1eb838a84461511b3cd73,594,NA,yellows,20,orange,orange,3914.5
+5dc1eb838a84461511b3cd73,595,NA,blues,20,dark blue,dark blue,3194
+5dc1eb838a84461511b3cd73,596,NA,yellows,1,yellow,yellow,2438.1
+5dc1eb838a84461511b3cd73,597,NA,browns,1,tan,tan,2294.2
+5dc1eb838a84461511b3cd73,598,NA,reds,1,pink,pink,1950.5
+5dc1eb838a84461511b3cd73,599,NA,reds,20,red,red,1345.7
+5dc1eb838a84461511b3cd73,600,NA,browns,20,brown,brown,2186.4
+5dc8c3d5b9d904627249ffbe,593,NA,reds,1,pink,pink,5785.495
+5dc8c3d5b9d904627249ffbe,594,NA,reds,20,red,red,1940.04
+5dc8c3d5b9d904627249ffbe,595,NA,yellows,1,yellow,yellow,2561.83
+5dc8c3d5b9d904627249ffbe,596,NA,yellows,20,orange,orange,2576.1
+5dc8c3d5b9d904627249ffbe,597,NA,blues,1,blue,blue,2043.97
+5dc8c3d5b9d904627249ffbe,598,NA,blues,20,true blue,true blue,18586.475
+5dc8c3d5b9d904627249ffbe,599,NA,browns,1,beige,beige,4233.73
+5dc8c3d5b9d904627249ffbe,600,NA,browns,20,brown,brown,1901.15
+5dcf1fd0710dfc073a370a19,593,NA,yellows,1,yellow,yellow,10230
+5dcf1fd0710dfc073a370a19,594,NA,reds,20,red,red,6158
+5dcf1fd0710dfc073a370a19,595,NA,blues,20,blue,blue,6233
+5dcf1fd0710dfc073a370a19,596,NA,browns,1,tan,tan,12858
+5dcf1fd0710dfc073a370a19,597,NA,blues,1,light blue,light blue,19555
+5dcf1fd0710dfc073a370a19,598,NA,reds,1,pink,pink,9309
+5dcf1fd0710dfc073a370a19,599,NA,yellows,20,orange,orange,5419
+5dcf1fd0710dfc073a370a19,600,NA,browns,20,dark brown,dark brown,11044
+5dd2d431181abc2ecde6edb4,593,NA,yellows,1,yellow,yellow,4421.1
+5dd2d431181abc2ecde6edb4,594,NA,browns,1,tan,tan,2871.7
+5dd2d431181abc2ecde6edb4,595,NA,yellows,20,olrange,orange,7531
+5dd2d431181abc2ecde6edb4,596,NA,browns,20,brown,brown,3480.5
+5dd2d431181abc2ecde6edb4,597,NA,reds,1,pink,pink,2112.5
+5dd2d431181abc2ecde6edb4,598,NA,blues,20,blue,blue,4408.6
+5dd2d431181abc2ecde6edb4,599,NA,reds,20,red,red,1524.4
+5dd2d431181abc2ecde6edb4,600,NA,blues,1,light blue,light blue,5745
+5dd3276ea4aa26340acc8600,593,NA,yellows,1,yellow,yellow,3619.8
+5dd3276ea4aa26340acc8600,594,NA,yellows,20,orange,orange,1590.1
+5dd3276ea4aa26340acc8600,595,NA,blues,1,blue,blue,1329.2
+5dd3276ea4aa26340acc8600,596,NA,reds,1,pink,pink,1714.9
+5dd3276ea4aa26340acc8600,597,NA,browns,20,brown,brown,2615.6
+5dd3276ea4aa26340acc8600,598,NA,blues,20,blue,blue,1888.7
+5dd3276ea4aa26340acc8600,599,NA,browns,1,tan,tan,1797.5
+5dd3276ea4aa26340acc8600,600,NA,reds,20,red,red,1239.1
+5dd95392f3b7c28d7edcbe74,593,NA,reds,1,pink,pink,4963.9
+5dd95392f3b7c28d7edcbe74,594,NA,browns,1,beige,beige,4523.7
+5dd95392f3b7c28d7edcbe74,595,NA,blues,1,blue,blue,2368.4
+5dd95392f3b7c28d7edcbe74,596,NA,yellows,20,orange,orange,3064.3
+5dd95392f3b7c28d7edcbe74,597,NA,browns,20,brown,brown,2662.4
+5dd95392f3b7c28d7edcbe74,598,NA,reds,20,red,red,1973.2
+5dd95392f3b7c28d7edcbe74,599,NA,yellows,1,yellow,yellow,2593.3
+5dd95392f3b7c28d7edcbe74,600,NA,blues,20,blue,blue,2770.4
+5dd9923922749791b319fc19,593,NA,browns,20,Brown,Brown,11083.6
+5dd9923922749791b319fc19,594,NA,yellows,1,Yellow,Yellow,5371
+5dd9923922749791b319fc19,595,NA,reds,1,Pink,Pink,3959.7
+5dd9923922749791b319fc19,596,NA,yellows,20,Orange,Orange,5541.4
+5dd9923922749791b319fc19,597,NA,blues,20,Blue,Blue,3035.1
+5dd9923922749791b319fc19,598,NA,reds,20,Red,Red,2674
+5dd9923922749791b319fc19,599,NA,browns,1,Beige,Beige,6341.6
+5dd9923922749791b319fc19,600,NA,blues,1,Cyan,Cyan,3690.9
+5ddae85b393bd3a44d7cbaaa,593,NA,blues,1,Light Blue,Light Blue,6882.7
+5ddae85b393bd3a44d7cbaaa,594,NA,blues,20,Royal Blue,Royal Blue,7080.5
+5ddae85b393bd3a44d7cbaaa,595,NA,reds,1,Pink,Pink,6005.1
+5ddae85b393bd3a44d7cbaaa,596,NA,browns,20,Brown,Brown,4093.5
+5ddae85b393bd3a44d7cbaaa,597,NA,reds,20,Red,Red,3649.5
+5ddae85b393bd3a44d7cbaaa,598,NA,browns,1,Tan,Tan,3550.7
+5ddae85b393bd3a44d7cbaaa,599,NA,yellows,1,Yellow,Yellow,4655.1
+5ddae85b393bd3a44d7cbaaa,600,NA,yellows,20,Tangerine,Tangerine,5390.2
+5ddcd77f23f9f1c2c45d6c18,593,NA,yellows,20,orange,orange,7317.8
+5ddcd77f23f9f1c2c45d6c18,594,NA,blues,20,blue,blue,8073.3
+5ddcd77f23f9f1c2c45d6c18,595,NA,reds,20,red,red,6783.3
+5ddcd77f23f9f1c2c45d6c18,596,NA,browns,20,dark brown,dark brown,14593.8
+5ddcd77f23f9f1c2c45d6c18,597,NA,yellows,1,yellow,yellow,4755.2
+5ddcd77f23f9f1c2c45d6c18,598,NA,reds,1,pink,pink,4142.1
+5ddcd77f23f9f1c2c45d6c18,599,NA,browns,1,tan,tan,3910.4
+5ddcd77f23f9f1c2c45d6c18,600,NA,blues,1,light blue,light blue,8187.4
+5de16fd00e58661bb3519db8,593,NA,browns,1,beige,beige,3603
+5de16fd00e58661bb3519db8,594,NA,yellows,1,yellow,yellow,2272
+5de16fd00e58661bb3519db8,595,NA,yellows,20,orange,orange,1915
+5de16fd00e58661bb3519db8,596,NA,blues,1,blue,blue,1632
+5de16fd00e58661bb3519db8,597,NA,reds,1,pink,pink,1412
+5de16fd00e58661bb3519db8,598,NA,blues,20,blue,blue,1263
+5de16fd00e58661bb3519db8,599,NA,browns,20,brown,brown,4554
+5de16fd00e58661bb3519db8,600,NA,reds,20,red,red,1479
+5de5bf071a7af854f0910893,593,NA,yellows,20,burnt orange,burnt orange,7458.785
+5de5bf071a7af854f0910893,594,NA,browns,20,chocolate brown,chocolate brown,4753.305
+5de5bf071a7af854f0910893,595,NA,reds,1,pink,pink,6215.04
+5de5bf071a7af854f0910893,596,NA,browns,1,beige,beige,5430.775
+5de5bf071a7af854f0910893,597,NA,yellows,1,yellow,yellow,2140.86
+5de5bf071a7af854f0910893,598,NA,blues,20,blue,blue,1285.435
+5de5bf071a7af854f0910893,599,NA,reds,20,red,red,1455.275
+5de5bf071a7af854f0910893,600,NA,blues,1,sky blue,sky blue,4033.56
+5de9d78ebe656d10e1a26af6,593,NA,browns,1,tan,tan,5064.6
+5de9d78ebe656d10e1a26af6,594,NA,yellows,1,yellow,yellow,4101.1
+5de9d78ebe656d10e1a26af6,595,NA,yellows,20,orange,orange,2004.7
+5de9d78ebe656d10e1a26af6,596,NA,blues,20,blue,blue,1602.6
+5de9d78ebe656d10e1a26af6,597,NA,browns,20,brown,brown,2500.1
+5de9d78ebe656d10e1a26af6,598,NA,reds,20,red,red,1363.8
+5de9d78ebe656d10e1a26af6,599,NA,blues,1,light blue,light blue,6613.8
+5de9d78ebe656d10e1a26af6,600,NA,reds,1,pink,pink,1632.9
+5deb0be47d91c323213e752b,593,NA,yellows,20,orange,orange,2578.3
+5deb0be47d91c323213e752b,594,NA,blues,20,blue,blue,1620.6
+5deb0be47d91c323213e752b,595,NA,browns,1,mauve,mauve,4476
+5deb0be47d91c323213e752b,596,NA,reds,1,pink,pink,1529
+5deb0be47d91c323213e752b,597,NA,browns,20,brown,brown,1416.2
+5deb0be47d91c323213e752b,598,NA,reds,20,red,red,1281.9
+5deb0be47d91c323213e752b,599,NA,blues,1,sky blue,sky blue,3730.1
+5deb0be47d91c323213e752b,600,NA,yellows,1,yellow,yellow,1776.6
+5dec30eb6c078132a7db440e,593,NA,yellows,20,bright orange,bright orange,12067.15
+5dec30eb6c078132a7db440e,594,NA,reds,1,hot pink,hot pink,4383.985
+5dec30eb6c078132a7db440e,595,NA,blues,1,sky blue,sky blue,4500.145
+5dec30eb6c078132a7db440e,596,NA,reds,20,true red,true red,5612.06
+5dec30eb6c078132a7db440e,597,NA,browns,20,dark brown,dark brown,5760.2
+5dec30eb6c078132a7db440e,598,NA,blues,20,royal blue,royal blue,5072.255
+5dec30eb6c078132a7db440e,599,NA,yellows,1,bright yellow,bright yellow,5327.155
+5dec30eb6c078132a7db440e,600,NA,browns,1,beige,beige,6540.555
+5ded3d21be28563ff17ee400,593,NA,yellows,1,yellow,yellow,6003.5
+5ded3d21be28563ff17ee400,594,NA,reds,20,red,red,2172.8
+5ded3d21be28563ff17ee400,595,NA,yellows,20,orange,orange,3066.8
+5ded3d21be28563ff17ee400,596,NA,blues,1,light blue,light blue,5508
+5ded3d21be28563ff17ee400,597,NA,browns,1,beige,beige,4971.9
+5ded3d21be28563ff17ee400,598,NA,browns,20,brown,brown,5025.3
+5ded3d21be28563ff17ee400,599,NA,reds,1,pink,pink,6656
+5ded3d21be28563ff17ee400,600,NA,blues,20,royal blue,royal blue,8293.4
+5e154952c76aa6b40619b1d3,593,NA,reds,1,pink,pink,2837.5
+5e154952c76aa6b40619b1d3,594,NA,yellows,20,orange,orange,2058.9
+5e154952c76aa6b40619b1d3,595,NA,blues,20,blue,blue,1490
+5e154952c76aa6b40619b1d3,596,NA,browns,20,brown,brown,1357
+5e154952c76aa6b40619b1d3,597,NA,yellows,1,yellow,yellow,1371.1
+5e154952c76aa6b40619b1d3,598,NA,blues,1,light blue,light blue,2298.2
+5e154952c76aa6b40619b1d3,599,NA,browns,1,tan,tan,2074.7
+5e154952c76aa6b40619b1d3,600,NA,reds,20,red,red,1162.3
+5e164e81502213c397f0cf39,593,NA,blues,1,Light blue,Light blue,5945.95
+5e164e81502213c397f0cf39,594,NA,blues,20,blue,blue,3234.33
+5e164e81502213c397f0cf39,595,NA,reds,1,pnkish,pnkish,3084.18
+5e164e81502213c397f0cf39,596,NA,reds,20,bright red,bright red,5195.53
+5e164e81502213c397f0cf39,597,NA,browns,1,puke brown,puke brown,7481.345
+5e164e81502213c397f0cf39,598,NA,yellows,20,some kinda orange,some kinda orange,3862.28
+5e164e81502213c397f0cf39,599,NA,browns,20,brown,brown,2199.55
+5e164e81502213c397f0cf39,600,NA,yellows,1,yellow,yellow,2253.47
+5e1a7114a90da52e206de7ea,593,NA,reds,1,pink,pink,4749
+5e1a7114a90da52e206de7ea,594,NA,reds,20,red,red,1797.8
+5e1a7114a90da52e206de7ea,595,NA,yellows,1,yellow,yellow,1977.6
+5e1a7114a90da52e206de7ea,596,NA,browns,1,tan,tan,2544.6
+5e1a7114a90da52e206de7ea,597,NA,browns,20,brown,brown,2449.8
+5e1a7114a90da52e206de7ea,598,NA,blues,1,blue,blue,2535.1
+5e1a7114a90da52e206de7ea,599,NA,yellows,20,orange,orange,1925.4
+5e1a7114a90da52e206de7ea,600,NA,blues,20,blue,blue,2671.1
+5e1d50553d2e1b0ceaf5bbd2,593,NA,yellows,20,orange,orange,3400
+5e1d50553d2e1b0ceaf5bbd2,594,NA,blues,20,blue,blue,4138
+5e1d50553d2e1b0ceaf5bbd2,595,NA,blues,1,sky blue,sky blue,10539
+5e1d50553d2e1b0ceaf5bbd2,596,NA,browns,1,tan,tan,2149
+5e1d50553d2e1b0ceaf5bbd2,597,NA,reds,20,red,red,2100
+5e1d50553d2e1b0ceaf5bbd2,598,NA,reds,1,pink,pink,1612
+5e1d50553d2e1b0ceaf5bbd2,599,NA,yellows,1,yellow,yellow,1841
+5e1d50553d2e1b0ceaf5bbd2,600,NA,browns,20,brown,brown,3679
+5e1f7b2a4c9b832b34e7c9d3,593,NA,yellows,1,yellow,yellow,4289.4
+5e1f7b2a4c9b832b34e7c9d3,594,NA,blues,20,blue,blue,1635.8
+5e1f7b2a4c9b832b34e7c9d3,595,NA,reds,1,pink,pink,3738.9
+5e1f7b2a4c9b832b34e7c9d3,596,NA,blues,1,blue,blue,1769.4
+5e1f7b2a4c9b832b34e7c9d3,597,NA,browns,20,brown,brown,1626.5
+5e1f7b2a4c9b832b34e7c9d3,598,NA,reds,20,red,red,1257.9
+5e1f7b2a4c9b832b34e7c9d3,599,NA,yellows,20,orange,orange,2367.7
+5e1f7b2a4c9b832b34e7c9d3,600,NA,browns,1,tan,tan,1451.5
+5e2093a7e10aa2000c631268,593,NA,blues,1,blue,blue,2013
+5e2093a7e10aa2000c631268,594,NA,yellows,1,yellow,yellow,2123.8
+5e2093a7e10aa2000c631268,595,NA,browns,20,brown,brown,2044.1
+5e2093a7e10aa2000c631268,596,NA,browns,1,tan,tan,1647.1
+5e2093a7e10aa2000c631268,597,NA,blues,20,blue,blue,1548.3
+5e2093a7e10aa2000c631268,598,NA,reds,1,pink,pink,2360.5
+5e2093a7e10aa2000c631268,599,NA,yellows,20,orange,orange,1628.9
+5e2093a7e10aa2000c631268,600,NA,reds,20,red,red,901.7
+5e2721b01160079464059b5c,593,NA,blues,20,blue,blue,10330.5
+5e2721b01160079464059b5c,594,NA,yellows,1,yellow,yellow,3055.3
+5e2721b01160079464059b5c,595,NA,reds,1,carnation pink,carnation pink,6347.099999
+5e2721b01160079464059b5c,596,NA,reds,20,red,red,3206.9
+5e2721b01160079464059b5c,597,NA,browns,20,dark brown,dark brown,6755.1
+5e2721b01160079464059b5c,598,NA,browns,1,beige,beige,3406.799999
+5e2721b01160079464059b5c,599,NA,blues,1,sky blue,sky blue,3400.7
+5e2721b01160079464059b5c,600,NA,yellows,20,orange,orange,3892
+5e3c80d18af2be072bbd60cc,593,NA,reds,1,;ink,;ink,37122.065
+5e3c80d18af2be072bbd60cc,594,NA,browns,20,,,171.2000001
+5e3c80d18af2be072bbd60cc,595,NA,blues,20,navy,navy,15935.745
+5e3c80d18af2be072bbd60cc,596,NA,blues,1,light blue,light blue,13241.305
+5e3c80d18af2be072bbd60cc,597,NA,yellows,1,yellow,yellow,18407.75
+5e3c80d18af2be072bbd60cc,598,NA,yellows,20,orange,orange,11224.9
+5e3c80d18af2be072bbd60cc,599,NA,reds,20,red,red,20153.535
+5e3c80d18af2be072bbd60cc,600,NA,browns,1,ecru,ecru,16608.885
+5e428b48902afe117c45d261,593,NA,yellows,20,Orange,Orange,15326.89
+5e428b48902afe117c45d261,594,NA,blues,1,Light blue,Light blue,14751.885
+5e428b48902afe117c45d261,595,NA,yellows,1,Yellow,Yellow,21547.195
+5e428b48902afe117c45d261,596,NA,reds,20,Red,Red,6544.83
+5e428b48902afe117c45d261,597,NA,reds,1,Pink,Pink,15681.75
+5e428b48902afe117c45d261,598,NA,browns,1,Beige,Beige,8513.73
+5e428b48902afe117c45d261,599,NA,browns,20,Brown,Brown,7431.48
+5e428b48902afe117c45d261,600,NA,blues,20,Blue,Blue,5332.32
+5e500ab1ec45d305b6b82d9f,593,NA,yellows,20,orange,orange,4727.1
+5e500ab1ec45d305b6b82d9f,594,NA,browns,20,brown,brown,3037.8
+5e500ab1ec45d305b6b82d9f,595,NA,yellows,1,yellow,yellow,3177.8
+5e500ab1ec45d305b6b82d9f,596,NA,reds,1,pink,pink,3026.2
+5e500ab1ec45d305b6b82d9f,597,NA,blues,20,blue,blue,2673.4
+5e500ab1ec45d305b6b82d9f,598,NA,blues,1,light blue,light blue,3893.5
+5e500ab1ec45d305b6b82d9f,599,NA,browns,1,tan,tan,3145.7
+5e500ab1ec45d305b6b82d9f,600,NA,reds,20,red,red,2540.2
+5e544727059e3744ccdd4c3b,593,NA,browns,1,Tan,Tan,9240.965
+5e544727059e3744ccdd4c3b,594,NA,yellows,20,Orange,Orange,6104
+5e544727059e3744ccdd4c3b,595,NA,reds,20,Red,Red,2423.44
+5e544727059e3744ccdd4c3b,596,NA,blues,20,Blue,Blue,2885.1
+5e544727059e3744ccdd4c3b,597,NA,blues,1,Sky blue,Sky blue,14299.775
+5e544727059e3744ccdd4c3b,598,NA,yellows,1,Yellow,Yellow,4189.51
+5e544727059e3744ccdd4c3b,599,NA,browns,20,Brown,Brown,3070.975
+5e544727059e3744ccdd4c3b,600,NA,reds,1,Pink,Pink,4047.835
+5e59231c14a6a41332efb648,593,NA,yellows,20,orange,orange,5318.22
+5e59231c14a6a41332efb648,594,NA,reds,20,red,red,2530.145
+5e59231c14a6a41332efb648,595,NA,yellows,1,yellow,yellow,2754.9
+5e59231c14a6a41332efb648,596,NA,browns,1,peach,peach,3785.94
+5e59231c14a6a41332efb648,597,NA,browns,20,brown,brown,1529.455
+5e59231c14a6a41332efb648,598,NA,blues,20,blue,blue,1629.69
+5e59231c14a6a41332efb648,599,NA,reds,1,pink,pink,2351.015
+5e59231c14a6a41332efb648,600,NA,blues,1,blue,blue,2191.09
+5e6473fbc15dbe1f71eea95b,593,NA,browns,1,beige,beige,3028.845
+5e6473fbc15dbe1f71eea95b,594,NA,blues,20,blue,blue,1771.04
+5e6473fbc15dbe1f71eea95b,595,NA,yellows,20,orange,orange,1858.36
+5e6473fbc15dbe1f71eea95b,596,NA,yellows,1,yellow,yellow,2072.77
+5e6473fbc15dbe1f71eea95b,597,NA,reds,20,red,red,1377.645
+5e6473fbc15dbe1f71eea95b,598,NA,browns,20,brown,brown,1952.49
+5e6473fbc15dbe1f71eea95b,599,NA,reds,1,pink,pink,1640.53
+5e6473fbc15dbe1f71eea95b,600,NA,blues,1,light blue,light blue,10944.885
+5e6813ada1c2de09bc51d9b2,593,NA,blues,20,Blue,Blue,5240.86
+5e6813ada1c2de09bc51d9b2,594,NA,reds,20,Red,Red,1821.995
+5e6813ada1c2de09bc51d9b2,595,NA,yellows,1,yellow,yellow,3089.6
+5e6813ada1c2de09bc51d9b2,596,NA,browns,1,beige,beige,9579.79
+5e6813ada1c2de09bc51d9b2,597,NA,blues,1,sky blue,sky blue,3707.95
+5e6813ada1c2de09bc51d9b2,598,NA,yellows,20,orange,orange,2734.24
+5e6813ada1c2de09bc51d9b2,599,NA,reds,1,fuscia,fuscia,4183.85
+5e6813ada1c2de09bc51d9b2,600,NA,browns,20,brown,brown,2527.67
+5e68691662358c10f5adb901,593,NA,reds,1,Pink,Pink,4835
+5e68691662358c10f5adb901,594,NA,browns,1,Tan,Tan,4533
+5e68691662358c10f5adb901,595,NA,yellows,20,Orange,Orange,3367
+5e68691662358c10f5adb901,596,NA,yellows,1,Yellow,Yellow,3632
+5e68691662358c10f5adb901,597,NA,browns,20,Brown,Brown,2801
+5e68691662358c10f5adb901,598,NA,reds,20,Red,Red,2348
+5e68691662358c10f5adb901,599,NA,blues,1,Light Blue,Light Blue,6156
+5e68691662358c10f5adb901,600,NA,blues,20,Blue,Blue,1970
+5e687fc5651f7d1259eac113,593,NA,reds,20,red,red,8003.4
+5e687fc5651f7d1259eac113,594,NA,browns,20,brown,brown,5920.1
+5e687fc5651f7d1259eac113,595,NA,yellows,1,yellow,yellow,4750.2
+5e687fc5651f7d1259eac113,596,NA,blues,1,light blue,light blue,5841.1
+5e687fc5651f7d1259eac113,597,NA,blues,20,dark blue,dark blue,9048.1
+5e687fc5651f7d1259eac113,598,NA,reds,1,pink,pink,3859.5
+5e687fc5651f7d1259eac113,599,NA,yellows,20,orange,orange,4610.1
+5e687fc5651f7d1259eac113,600,NA,browns,1,light brown,light brown,8844.6
+5e6fd3293c76d25a3ca8b384,593,NA,blues,1,Lightblue,Lightblue,18471
+5e6fd3293c76d25a3ca8b384,594,NA,yellows,20,Orange,Orange,66370
+5e6fd3293c76d25a3ca8b384,595,NA,browns,20,Maron,Maron,13353
+5e6fd3293c76d25a3ca8b384,596,NA,yellows,1,Yellow,Yellow,6143
+5e6fd3293c76d25a3ca8b384,597,NA,reds,20,Red,Red,5172
+5e6fd3293c76d25a3ca8b384,598,NA,reds,1,Pink,Pink,5104
+5e6fd3293c76d25a3ca8b384,599,NA,blues,20,Blue,Blue,6692
+5e6fd3293c76d25a3ca8b384,600,NA,browns,1,Mustard,Mustard,38438
+5e7072e5fb136c63e94f3fa4,593,NA,blues,1,light blue,light blue,12301.1
+5e7072e5fb136c63e94f3fa4,594,NA,blues,20,royal blue,royal blue,9452.6
+5e7072e5fb136c63e94f3fa4,595,NA,reds,1,pink,pink,5516.2
+5e7072e5fb136c63e94f3fa4,596,NA,browns,1,mustard yellow,mustard yellow,25290
+5e7072e5fb136c63e94f3fa4,597,NA,yellows,1,yellow,yellow,13182.7
+5e7072e5fb136c63e94f3fa4,598,NA,yellows,20,orange,orange,7122.5
+5e7072e5fb136c63e94f3fa4,599,NA,reds,20,dark red,dark red,17479.1
+5e7072e5fb136c63e94f3fa4,600,NA,browns,20,dark brown,dark brown,8837.8
+5e7235e6d302e91679226b0e,593,NA,browns,1,taupe,taupe,5860
+5e7235e6d302e91679226b0e,594,NA,blues,1,baby blue,baby blue,2890
+5e7235e6d302e91679226b0e,595,NA,blues,20,bright blue,bright blue,5495
+5e7235e6d302e91679226b0e,596,NA,reds,1,hot pink,hot pink,3525
+5e7235e6d302e91679226b0e,597,NA,yellows,20,orange,orange,1843
+5e7235e6d302e91679226b0e,598,NA,reds,20,red,red,1320
+5e7235e6d302e91679226b0e,599,NA,yellows,1,bright yellow,bright yellow,4274
+5e7235e6d302e91679226b0e,600,NA,browns,20,brown,brown,2064
+5e7cd97723469b074db08e20,593,NA,yellows,20,orange,orange,5634.9
+5e7cd97723469b074db08e20,594,NA,blues,1,sky blue,sky blue,5475.8
+5e7cd97723469b074db08e20,595,NA,reds,1,pink,pink,3765.9
+5e7cd97723469b074db08e20,596,NA,browns,1,beige,beige,7291.8
+5e7cd97723469b074db08e20,597,NA,reds,20,red,red,1627.1
+5e7cd97723469b074db08e20,598,NA,yellows,1,yellow,yellow,2061.3
+5e7cd97723469b074db08e20,599,NA,browns,20,brown,brown,1812
+5e7cd97723469b074db08e20,600,NA,blues,20,blue,blue,1871.1
+5e8ae3cd2c382479f5db5d87,593,NA,reds,20,Red,Red,3546.4
+5e8ae3cd2c382479f5db5d87,594,NA,blues,20,Blue,Blue,2672
+5e8ae3cd2c382479f5db5d87,595,NA,yellows,1,Yellow,Yellow,2518.1
+5e8ae3cd2c382479f5db5d87,596,NA,yellows,20,Orange,Orange,2579.4
+5e8ae3cd2c382479f5db5d87,597,NA,browns,20,Brown,Brown,2478
+5e8ae3cd2c382479f5db5d87,598,NA,blues,1,Light Blue,Light Blue,4523
+5e8ae3cd2c382479f5db5d87,599,NA,browns,1,Beige,Beige,4169.8
+5e8ae3cd2c382479f5db5d87,600,NA,reds,1,Pink,Pink,3241.6
+5ea8071eefba051fb86923d1,593,NA,browns,1,sandy brown,sandy brown,112329
+5ea8071eefba051fb86923d1,594,NA,yellows,20,Maron,Maron,104518
+5ea8071eefba051fb86923d1,595,NA,reds,20,Red,Red,6388
+5ea8071eefba051fb86923d1,596,NA,blues,20,Blue,Blue,12507
+5ea8071eefba051fb86923d1,597,NA,blues,1,Cyan,Cyan,19700
+5ea8071eefba051fb86923d1,598,NA,yellows,1,Yellow,Yellow,10862
+5ea8071eefba051fb86923d1,599,NA,browns,20,Maron,Maron,58633
+5ea8071eefba051fb86923d1,600,NA,reds,1,pink,pink,11547
+5ea9ee70bd6e6c158af94cca,593,NA,browns,20,brown,brown,4727.4
+5ea9ee70bd6e6c158af94cca,594,NA,yellows,1,yellow,yellow,2709
+5ea9ee70bd6e6c158af94cca,595,NA,reds,20,red,red,1378.4
+5ea9ee70bd6e6c158af94cca,596,NA,blues,20,blue,blue,3690.6
+5ea9ee70bd6e6c158af94cca,597,NA,reds,1,pink,pink,1734.7
+5ea9ee70bd6e6c158af94cca,598,NA,yellows,20,orange,orange,1522.7
+5ea9ee70bd6e6c158af94cca,599,NA,blues,1,light blue,light blue,4744.5
+5ea9ee70bd6e6c158af94cca,600,NA,browns,1,biege,beige,7980.8
+5eb0453f0852800c239c6afd,593,NA,browns,1,beige,beige,4433
+5eb0453f0852800c239c6afd,594,NA,blues,1,blue,blue,3059
+5eb0453f0852800c239c6afd,595,NA,blues,20,royal blue,royal blue,4208
+5eb0453f0852800c239c6afd,596,NA,browns,20,brown,brown,2317
+5eb0453f0852800c239c6afd,597,NA,yellows,1,bright yellow,bright yellow,8087
+5eb0453f0852800c239c6afd,598,NA,reds,20,red,red,1890
+5eb0453f0852800c239c6afd,599,NA,reds,1,pink,pink,3332
+5eb0453f0852800c239c6afd,600,NA,yellows,20,orange,orange,2476
+5eba16d1843bd1154b5a2aa9,593,NA,reds,1,Pink,Pink,15235.5
+5eba16d1843bd1154b5a2aa9,594,NA,reds,20,Red,Red,4436.1
+5eba16d1843bd1154b5a2aa9,595,NA,blues,20,Blue,Blue,5736.1
+5eba16d1843bd1154b5a2aa9,596,NA,browns,20,Brown,Brown,6980.2
+5eba16d1843bd1154b5a2aa9,597,NA,browns,1,Pale,Pale,3959.5
+5eba16d1843bd1154b5a2aa9,598,NA,yellows,1,Yellow,Yellow,10570.7
+5eba16d1843bd1154b5a2aa9,599,NA,blues,1,light blue,light blue,5625.3
+5eba16d1843bd1154b5a2aa9,600,NA,yellows,20,light orange,light orange,6693
+5eba18339a2fbf14ca992775,593,NA,reds,20,red,red,1976
+5eba18339a2fbf14ca992775,594,NA,reds,1,pink,pink,1417.8
+5eba18339a2fbf14ca992775,595,NA,browns,20,brown,brown,1665.9
+5eba18339a2fbf14ca992775,596,NA,yellows,20,orange,orange,1987.1
+5eba18339a2fbf14ca992775,597,NA,blues,1,blue,blue,1146.1
+5eba18339a2fbf14ca992775,598,NA,yellows,1,yellow,yellow,1859.5
+5eba18339a2fbf14ca992775,599,NA,browns,1,tan,tan,1646.2
+5eba18339a2fbf14ca992775,600,NA,blues,20,blue,blue,1368.1
+5ebc1eacadb5e7012a9c6b98,593,NA,reds,20,circle,circle,15369.25
+5ebc1eacadb5e7012a9c6b98,594,NA,yellows,1,line,lime,5603.935
+5ebc1eacadb5e7012a9c6b98,595,NA,blues,1,circle,circle,16483.185
+5ebc1eacadb5e7012a9c6b98,596,NA,reds,1,heart,heart,6917.81
+5ebc1eacadb5e7012a9c6b98,597,NA,blues,20,the ocean,the ocean,11740.87
+5ebc1eacadb5e7012a9c6b98,598,NA,yellows,20,unknown,unknown,25138.31
+5ebc1eacadb5e7012a9c6b98,599,NA,browns,20,chocolate,chocolate,6155.75
+5ebc1eacadb5e7012a9c6b98,600,NA,browns,1,mocha,mocha,10173.025
+5ec5faacab872c67dfb0f505,593,NA,blues,20,blue,blue,1783.9
+5ec5faacab872c67dfb0f505,594,NA,yellows,1,yellow,yellow,1654.3
+5ec5faacab872c67dfb0f505,595,NA,reds,1,pink,pink,1544
+5ec5faacab872c67dfb0f505,596,NA,browns,1,taupe,taupe,3087.9
+5ec5faacab872c67dfb0f505,597,NA,yellows,20,orange,orange,1582.5
+5ec5faacab872c67dfb0f505,598,NA,reds,20,red,red,1517.8
+5ec5faacab872c67dfb0f505,599,NA,blues,1,blue,blue,1356.3
+5ec5faacab872c67dfb0f505,600,NA,browns,20,brown,brown,2976.9
+5ed13f875d702d061f7dabcb,593,NA,reds,1,pink,pink,3676.3
+5ed13f875d702d061f7dabcb,594,NA,browns,1,taupe,taupe,2627.5
+5ed13f875d702d061f7dabcb,595,NA,yellows,20,orange,orange,1773.5
+5ed13f875d702d061f7dabcb,596,NA,browns,20,brown,brown,1848.1
+5ed13f875d702d061f7dabcb,597,NA,reds,20,red,red,1243.6
+5ed13f875d702d061f7dabcb,598,NA,blues,1,blue,blue,2461.4
+5ed13f875d702d061f7dabcb,599,NA,blues,20,bright blue,bright blue,3452.4
+5ed13f875d702d061f7dabcb,600,NA,yellows,1,yellow,yellow,2401.7
+5ed598e96e3f8712fb17d4d9,593,NA,reds,20,dark red,dark red,12113.8
+5ed598e96e3f8712fb17d4d9,594,NA,blues,20,navy blue,navy blue,5879.7
+5ed598e96e3f8712fb17d4d9,595,NA,yellows,1,yellow,yellow,3759.7
+5ed598e96e3f8712fb17d4d9,596,NA,browns,1,tan,tan,4487.4
+5ed598e96e3f8712fb17d4d9,597,NA,yellows,20,orange,orange,3521.3
+5ed598e96e3f8712fb17d4d9,598,NA,blues,1,sky blue,sky blue,5848.8
+5ed598e96e3f8712fb17d4d9,599,NA,browns,20,brown,brown,2807.2
+5ed598e96e3f8712fb17d4d9,600,NA,reds,1,pink,pink,2624.7
+5ed86c3d9a76dd000826f699,593,NA,blues,1,sky blue,sky blue,9317.2
+5ed86c3d9a76dd000826f699,594,NA,blues,20,dark bright blue,dark bright blue,13317.3
+5ed86c3d9a76dd000826f699,595,NA,yellows,1,neon yellow,neon yellow,10041.5
+5ed86c3d9a76dd000826f699,596,NA,reds,1,soft pink,soft pink,7950.7
+5ed86c3d9a76dd000826f699,597,NA,yellows,20,dark orange,dark orange,14225.2
+5ed86c3d9a76dd000826f699,598,NA,browns,1,sandy beige,sandy beige,10111.9
+5ed86c3d9a76dd000826f699,599,NA,browns,20,dark brown,dark brown,7708.1
+5ed86c3d9a76dd000826f699,600,NA,reds,20,bright red,bright red,5444.7
+5edaf0abba14031b7899eb3f,593,NA,blues,1,blue,blue,4593.9
+5edaf0abba14031b7899eb3f,594,NA,browns,1,brown,brown,3157.9
+5edaf0abba14031b7899eb3f,595,NA,browns,20,brown,brown,1862
+5edaf0abba14031b7899eb3f,596,NA,reds,20,red,red,1669.9
+5edaf0abba14031b7899eb3f,597,NA,yellows,20,orange,orange,1763.9
+5edaf0abba14031b7899eb3f,598,NA,blues,20,blue,blue,1335.1
+5edaf0abba14031b7899eb3f,599,NA,yellows,1,yellow,yellow,2121.1
+5edaf0abba14031b7899eb3f,600,NA,reds,1,pink,pink,1651.2
+5edb15e94aaed578887b44ae,593,NA,yellows,20,orange,orange,4320.3
+5edb15e94aaed578887b44ae,594,NA,blues,1,blue,blue,2057.4
+5edb15e94aaed578887b44ae,595,NA,reds,20,red,red,1035.4
+5edb15e94aaed578887b44ae,596,NA,browns,1,beige,beige,2592.1
+5edb15e94aaed578887b44ae,597,NA,blues,20,blue,blue,1723.6
+5edb15e94aaed578887b44ae,598,NA,reds,1,pink,pink,1445.3
+5edb15e94aaed578887b44ae,599,NA,yellows,1,yellow,yellow,3371.2
+5edb15e94aaed578887b44ae,600,NA,browns,20,brown,brown,1662.6
+5eddb645b663bdac63a4e197,593,NA,browns,1,beige,beige,8076
+5eddb645b663bdac63a4e197,594,NA,yellows,1,bright yellow,bright yellow,6507
+5eddb645b663bdac63a4e197,595,NA,yellows,20,orange,orange,5988
+5eddb645b663bdac63a4e197,596,NA,reds,20,red,red,4344
+5eddb645b663bdac63a4e197,597,NA,blues,1,light blue,light blue,4443
+5eddb645b663bdac63a4e197,598,NA,reds,1,pink,pink,3795
+5eddb645b663bdac63a4e197,599,NA,browns,20,brown,brown,6380
+5eddb645b663bdac63a4e197,600,NA,blues,20,royal blue,royal blue,7018
+5ef51e6f12ad1916a987fde1,593,NA,reds,1,Pink,Pink,2537.7
+5ef51e6f12ad1916a987fde1,594,NA,blues,20,Blue,Blue,1742.1
+5ef51e6f12ad1916a987fde1,595,NA,yellows,20,Orange,Orange,1443.5
+5ef51e6f12ad1916a987fde1,596,NA,blues,1,Light blue,Light blue,4019.9
+5ef51e6f12ad1916a987fde1,597,NA,browns,20,brown,brown,2074.6
+5ef51e6f12ad1916a987fde1,598,NA,reds,20,red,red,1166.6
+5ef51e6f12ad1916a987fde1,599,NA,yellows,1,yellow,yellow,2140.6
+5ef51e6f12ad1916a987fde1,600,NA,browns,1,beige,beige,1850.1
+5ef531ab358933164a2c0be5,593,NA,blues,1,light blue,light blue,4796
+5ef531ab358933164a2c0be5,594,NA,reds,20,red,red,1555
+5ef531ab358933164a2c0be5,595,NA,browns,20,brown,brown,1621
+5ef531ab358933164a2c0be5,596,NA,browns,1,tan,tan,1576
+5ef531ab358933164a2c0be5,597,NA,yellows,1,yellow,yellow,1844
+5ef531ab358933164a2c0be5,598,NA,blues,20,dark blue,dark blue,3496
+5ef531ab358933164a2c0be5,599,NA,reds,1,pink,pink,1646
+5ef531ab358933164a2c0be5,600,NA,yellows,20,orange,orange,2860
+5ef692a99d9342394babb853,593,NA,browns,1,nude,nude,9957.5
+5ef692a99d9342394babb853,594,NA,blues,1,light blue ,light blue ,18157.3
+5ef692a99d9342394babb853,595,NA,yellows,20,tangerine,tangerine,6115.3
+5ef692a99d9342394babb853,596,NA,yellows,1,yellow,yellow,5754.9
+5ef692a99d9342394babb853,597,NA,reds,20,scarlet,scarlet,9160
+5ef692a99d9342394babb853,598,NA,reds,1,bubblegum pink,bubblegum pink,15631.2
+5ef692a99d9342394babb853,599,NA,blues,20,marine blue,marine blue,7098.5
+5ef692a99d9342394babb853,600,NA,browns,20,poo brown,poo brown,12179.8
+5efa5e5318bc3f88c33c96d3,593,NA,blues,20,Blue,Blue,3956.1
+5efa5e5318bc3f88c33c96d3,594,NA,browns,1,Light brown,Light brown,24326
+5efa5e5318bc3f88c33c96d3,595,NA,blues,1,Light blue,Light blue,5145.7
+5efa5e5318bc3f88c33c96d3,596,NA,browns,20,dark brown,dark brown,2648.7
+5efa5e5318bc3f88c33c96d3,597,NA,yellows,20,orange,orange,1198.4
+5efa5e5318bc3f88c33c96d3,598,NA,reds,20,red,red,1593.6
+5efa5e5318bc3f88c33c96d3,599,NA,reds,1,pink,pink,1079.1
+5efa5e5318bc3f88c33c96d3,600,NA,yellows,1,yellow,yellow,2000.5
+5efba5a42f373b13135a88d2,593,NA,blues,1,light blue,light blue,4173
+5efba5a42f373b13135a88d2,594,NA,reds,20,red,red,1962
+5efba5a42f373b13135a88d2,595,NA,browns,1,beige,beige,2954
+5efba5a42f373b13135a88d2,596,NA,browns,20,chocolate brown,chocolate brown,5346
+5efba5a42f373b13135a88d2,597,NA,reds,1,pink,pink,2497
+5efba5a42f373b13135a88d2,598,NA,yellows,20,orange,orange,4945
+5efba5a42f373b13135a88d2,599,NA,blues,20,royal blue,royal blue,3380
+5efba5a42f373b13135a88d2,600,NA,yellows,1,bright yellow,bright yellow,4729
+5f117a19d614293b07fdb9cf,593,NA,yellows,20,orange,orange,2964.9
+5f117a19d614293b07fdb9cf,594,NA,blues,1,light blue,light blue,3204.3
+5f117a19d614293b07fdb9cf,595,NA,yellows,1,light yellow,light yellow,3871.4
+5f117a19d614293b07fdb9cf,596,NA,reds,20,red,red,1266.6
+5f117a19d614293b07fdb9cf,597,NA,reds,1,pink,pink,1903.2
+5f117a19d614293b07fdb9cf,598,NA,browns,1,light brown,light brown,6156.8
+5f117a19d614293b07fdb9cf,599,NA,browns,20,dark brown,dark brown,3287.8
+5f117a19d614293b07fdb9cf,600,NA,blues,20,blue,blue,1604.5
+5f11a157188dff03032d37a1,593,NA,blues,20,blue,blue,10513.1
+5f11a157188dff03032d37a1,594,NA,browns,1,light brown,light brown,27028.2
+5f11a157188dff03032d37a1,595,NA,blues,1,light blue,light blue,8750.4
+5f11a157188dff03032d37a1,596,NA,yellows,20,orange,orange,6627.1
+5f11a157188dff03032d37a1,597,NA,reds,1,pink,pink,6416.6
+5f11a157188dff03032d37a1,598,NA,reds,20,red,red,3081.2
+5f11a157188dff03032d37a1,599,NA,browns,20,dark brown,dark brown,6133.2
+5f11a157188dff03032d37a1,600,NA,yellows,1,yellow,yellow,4539.5
+5f1f31b2a78ed40ea1d5e843,593,NA,blues,20,Blue,Blue,3484.3
+5f1f31b2a78ed40ea1d5e843,594,NA,blues,1,Light Blue,Light Blue,4685.8
+5f1f31b2a78ed40ea1d5e843,595,NA,reds,1,Magenta,Magenta,9151.6
+5f1f31b2a78ed40ea1d5e843,596,NA,reds,20,Red,Red,1863
+5f1f31b2a78ed40ea1d5e843,597,NA,browns,20,Brown,Brown,2770.6
+5f1f31b2a78ed40ea1d5e843,598,NA,yellows,1,Yellow,Yellow,4047.5
+5f1f31b2a78ed40ea1d5e843,599,NA,yellows,20,Orange,Orange,2558.6
+5f1f31b2a78ed40ea1d5e843,600,NA,browns,1,Beige,Beige,9222
+5f27787109aca24c18d1f6e8,593,NA,reds,20,red,red,6239.7
+5f27787109aca24c18d1f6e8,594,NA,reds,1,pink,pink,2541.5
+5f27787109aca24c18d1f6e8,595,NA,browns,20,brown,brown,2221.5
+5f27787109aca24c18d1f6e8,596,NA,yellows,1,yellow,yellow,1988.8
+5f27787109aca24c18d1f6e8,597,NA,blues,1,light blue,light blue,4882.7
+5f27787109aca24c18d1f6e8,598,NA,yellows,20,orange,orange,1941.2
+5f27787109aca24c18d1f6e8,599,NA,blues,20,royal blue,royal blue,2879.3
+5f27787109aca24c18d1f6e8,600,NA,browns,1,tan,tan,1920.6
+5f2a60df200d1e259031ed42,593,NA,browns,20,brown,brown,9564.4
+5f2a60df200d1e259031ed42,594,NA,browns,1,beige,beige,6766
+5f2a60df200d1e259031ed42,595,NA,yellows,1,yellow,yellow,1800.1
+5f2a60df200d1e259031ed42,596,NA,blues,1,baby blue,baby blue,3324.5
+5f2a60df200d1e259031ed42,597,NA,yellows,20,orange,orange,1804.7
+5f2a60df200d1e259031ed42,598,NA,reds,20,red,red,1274.3
+5f2a60df200d1e259031ed42,599,NA,reds,1,pink,pink,2702.8
+5f2a60df200d1e259031ed42,600,NA,blues,20,blue,blue,1652.5
+5f2f86864fd821374b4367bc,593,NA,yellows,20,orange,orange,4081.22
+5f2f86864fd821374b4367bc,594,NA,reds,20,red,red,1586.055
+5f2f86864fd821374b4367bc,595,NA,blues,1,light blue,light blue,3391.81
+5f2f86864fd821374b4367bc,596,NA,browns,1,beige,beige,2270.485
+5f2f86864fd821374b4367bc,597,NA,blues,20,blue,blue,2034.605
+5f2f86864fd821374b4367bc,598,NA,reds,1,pink,pink,1754.565
+5f2f86864fd821374b4367bc,599,NA,yellows,1,yellow,yellow,2191.325
+5f2f86864fd821374b4367bc,600,NA,browns,20,brown,brown,2279.18
+5f342ad9410b5d2dfd64e8ed,593,NA,yellows,20,orange,orange,4451.5
+5f342ad9410b5d2dfd64e8ed,594,NA,yellows,1,yellow,yellow,3578.8
+5f342ad9410b5d2dfd64e8ed,595,NA,browns,20,brown,brown,4540.7
+5f342ad9410b5d2dfd64e8ed,596,NA,browns,1,tan,tan,3284.2
+5f342ad9410b5d2dfd64e8ed,597,NA,reds,1,pink,pink,3120.2
+5f342ad9410b5d2dfd64e8ed,598,NA,reds,20,red,red,2792.7
+5f342ad9410b5d2dfd64e8ed,599,NA,blues,1,blue,blue,2493.2
+5f342ad9410b5d2dfd64e8ed,600,NA,blues,20,blue,blue,2684.4
+5f369f5484d5ad083b7ce317,593,NA,yellows,20,orange,orange,6069.79
+5f369f5484d5ad083b7ce317,594,NA,reds,1,pink,pink,1474.29
+5f369f5484d5ad083b7ce317,595,NA,yellows,1,yellow,yellow,1615.215
+5f369f5484d5ad083b7ce317,596,NA,reds,20,red,red,1436.7
+5f369f5484d5ad083b7ce317,597,NA,browns,20,brown,brown,1773.785
+5f369f5484d5ad083b7ce317,598,NA,blues,20,blue,blue,1406.875
+5f369f5484d5ad083b7ce317,599,NA,blues,1,light blue,light blue,3707.48
+5f369f5484d5ad083b7ce317,600,NA,browns,1,beige ,beige ,2805.22
+5f3d49c430715f09ebb6389e,593,NA,reds,20,red,red,3234.52
+5f3d49c430715f09ebb6389e,594,NA,reds,1,pink,pink,2960.84
+5f3d49c430715f09ebb6389e,595,NA,browns,20,brown,brown,3372.08
+5f3d49c430715f09ebb6389e,596,NA,yellows,1,yellow,yellow,3594.11
+5f3d49c430715f09ebb6389e,597,NA,blues,20,blue,blue,3260.745
+5f3d49c430715f09ebb6389e,598,NA,blues,1,light blue,light blue,4648.435
+5f3d49c430715f09ebb6389e,599,NA,browns,1,beige,beige,3462.285
+5f3d49c430715f09ebb6389e,600,NA,yellows,20,orange,orange,5382.875
+5f40442792000717762de583,593,NA,reds,1,Pink,Pink,7964.2
+5f40442792000717762de583,594,NA,browns,1,Brown,Brown,5751.03
+5f40442792000717762de583,595,NA,blues,1,Light Blue,Light Blue,8976.45
+5f40442792000717762de583,596,NA,yellows,20,Orange,Orange,3007.645
+5f40442792000717762de583,597,NA,browns,20,Dark Brown,Dark Brown,11095.1
+5f40442792000717762de583,598,NA,reds,20,Red,Red,2802.1
+5f40442792000717762de583,599,NA,yellows,1,Yellow,Yellow,3385.275
+5f40442792000717762de583,600,NA,blues,20,Blue,Blue,5762.305
+5f406b7ae388cd1ad1d144cf,593,NA,reds,1,Pink,Pink,3547.3
+5f406b7ae388cd1ad1d144cf,594,NA,blues,1,Blue,Blue,3991
+5f406b7ae388cd1ad1d144cf,595,NA,yellows,20,Orange,Orange,2700.3
+5f406b7ae388cd1ad1d144cf,596,NA,browns,1,Beige,Beige,2762.3
+5f406b7ae388cd1ad1d144cf,597,NA,browns,20,Brown,Brown,2743.4
+5f406b7ae388cd1ad1d144cf,598,NA,reds,20,Red,Red,1539.1
+5f406b7ae388cd1ad1d144cf,599,NA,blues,20,Blue,Blue,2598.1
+5f406b7ae388cd1ad1d144cf,600,NA,yellows,1,Yellow,Yellow,2748.5
+5f481e6faaf9582bdcd9697b,593,NA,browns,20,brown,brown,15511.7
+5f481e6faaf9582bdcd9697b,594,NA,yellows,20,orange,orange,8171.2
+5f481e6faaf9582bdcd9697b,595,NA,blues,20,blue,blue,1761.4
+5f481e6faaf9582bdcd9697b,596,NA,yellows,1,yellow,yellow,2608.3
+5f481e6faaf9582bdcd9697b,597,NA,reds,20,red,red,1462.8
+5f481e6faaf9582bdcd9697b,598,NA,browns,1,tan,tan,2187.3
+5f481e6faaf9582bdcd9697b,599,NA,reds,1,pink,pink,2025
+5f481e6faaf9582bdcd9697b,600,NA,blues,1,light blue,light blue,3638.3
+5f49f3262a3d07563d14a7f1,593,NA,browns,1,beige,beige,9796.5
+5f49f3262a3d07563d14a7f1,594,NA,yellows,1,yellow,yellow,4441.4
+5f49f3262a3d07563d14a7f1,595,NA,browns,20,brown,brown,3823.8
+5f49f3262a3d07563d14a7f1,596,NA,reds,1,pink,pink,3507.7
+5f49f3262a3d07563d14a7f1,597,NA,reds,20,red,red,2033.7
+5f49f3262a3d07563d14a7f1,598,NA,blues,20,blue,blue,2469.8
+5f49f3262a3d07563d14a7f1,599,NA,blues,1,sky blue,sky blue,6137.4
+5f49f3262a3d07563d14a7f1,600,NA,yellows,20,orange,orange,3240.1
+5f503dfc47022a1bc112557a,593,NA,blues,1,Cyan,Cyan,19506
+5f503dfc47022a1bc112557a,594,NA,reds,1,Pink,Pink,6795
+5f503dfc47022a1bc112557a,595,NA,blues,20,Blue,Blue,2658
+5f503dfc47022a1bc112557a,596,NA,reds,20,Red,Red,3683
+5f503dfc47022a1bc112557a,597,NA,yellows,20,Orange,Orange,3921
+5f503dfc47022a1bc112557a,598,NA,browns,20,Brown,Brown,2628
+5f503dfc47022a1bc112557a,599,NA,yellows,1,Yellow,Yellow,2789
+5f503dfc47022a1bc112557a,600,NA,browns,1,Beige,Beige,14978
+5f51103bdd6f012dd36e84e8,593,NA,blues,1,sky blue,sky blue,7783
+5f51103bdd6f012dd36e84e8,594,NA,blues,20,blue,blue,2081
+5f51103bdd6f012dd36e84e8,595,NA,browns,1,tan,tan,3513
+5f51103bdd6f012dd36e84e8,596,NA,yellows,1,yellow,yellow,2164
+5f51103bdd6f012dd36e84e8,597,NA,reds,1,pink,pink,2020
+5f51103bdd6f012dd36e84e8,598,NA,reds,20,red,red,1055
+5f51103bdd6f012dd36e84e8,599,NA,browns,20,brown,brown,1558
+5f51103bdd6f012dd36e84e8,600,NA,yellows,20,orange,orange,1487
+5f516d96bf6cde3b04b94b69,593,NA,yellows,1,yellow,yellow,5818.5
+5f516d96bf6cde3b04b94b69,594,NA,browns,1,beige,beige,3925.5
+5f516d96bf6cde3b04b94b69,595,NA,browns,20,brown,brown,1797.2
+5f516d96bf6cde3b04b94b69,596,NA,reds,1,pink,pink,1458.6
+5f516d96bf6cde3b04b94b69,597,NA,blues,20,blue,blue,1343.1
+5f516d96bf6cde3b04b94b69,598,NA,yellows,20,orange,orange,1605.4
+5f516d96bf6cde3b04b94b69,599,NA,blues,1,light blue,light blue,3861.6
+5f516d96bf6cde3b04b94b69,600,NA,reds,20,red,red,1516.2
+5f52c5cf1fa4ba5d2959f3e4,593,NA,browns,1,beige,beige,3694.3
+5f52c5cf1fa4ba5d2959f3e4,594,NA,browns,20,brown,brown,2499.7
+5f52c5cf1fa4ba5d2959f3e4,595,NA,reds,1,pink,pink,1609.1
+5f52c5cf1fa4ba5d2959f3e4,596,NA,blues,20,blue,blue,1501.9
+5f52c5cf1fa4ba5d2959f3e4,597,NA,blues,1,light blue,light blue,4997
+5f52c5cf1fa4ba5d2959f3e4,598,NA,reds,20,red,red,1144.3
+5f52c5cf1fa4ba5d2959f3e4,599,NA,yellows,20,orange,orange,1600.8
+5f52c5cf1fa4ba5d2959f3e4,600,NA,yellows,1,yellow,yellow,1727.8
+5f5a5916d66aea0e98ed1554,593,NA,reds,20,red,red,3079.1
+5f5a5916d66aea0e98ed1554,594,NA,yellows,20,orange,orange,1663.5
+5f5a5916d66aea0e98ed1554,595,NA,browns,20,brown,brown,1519.5
+5f5a5916d66aea0e98ed1554,596,NA,reds,1,pink,pink,1679.6
+5f5a5916d66aea0e98ed1554,597,NA,browns,1,beige,beige,1783.3
+5f5a5916d66aea0e98ed1554,598,NA,blues,20,blue,blue,1170.8
+5f5a5916d66aea0e98ed1554,599,NA,yellows,1,yellow,yellow,1586.8
+5f5a5916d66aea0e98ed1554,600,NA,blues,1,baby blue,baby blue,4399.1
+5f5be76d3a6dba3ab63cf7a2,593,NA,browns,1,Peach,Peach,30715.6
+5f5be76d3a6dba3ab63cf7a2,594,NA,blues,20,Blue,Blue,6195.4
+5f5be76d3a6dba3ab63cf7a2,595,NA,browns,20,Brown,Brown,7754
+5f5be76d3a6dba3ab63cf7a2,596,NA,yellows,1,Yellow,Yellow,7484.1
+5f5be76d3a6dba3ab63cf7a2,597,NA,yellows,20,Orange,Orange,5899.2
+5f5be76d3a6dba3ab63cf7a2,598,NA,reds,1,Pink,Pink,4593.1
+5f5be76d3a6dba3ab63cf7a2,599,NA,blues,1,Light Blue,Light Blue,19599
+5f5be76d3a6dba3ab63cf7a2,600,NA,reds,20,Red,Red,4455.3
+5f698ad7f47712179c41bc29,593,NA,yellows,1,yellow,yellow,8147.4
+5f698ad7f47712179c41bc29,594,NA,reds,1,pink,pink,3234.4
+5f698ad7f47712179c41bc29,595,NA,reds,20,red,red,2187.2
+5f698ad7f47712179c41bc29,596,NA,browns,1,beige,beige,5040
+5f698ad7f47712179c41bc29,597,NA,blues,1,blue,blue,2741
+5f698ad7f47712179c41bc29,598,NA,blues,20,royal blue,royal blue,5223.9
+5f698ad7f47712179c41bc29,599,NA,yellows,20,orange,orange,2794.6
+5f698ad7f47712179c41bc29,600,NA,browns,20,brown,brown,2468.2
+5f6b9fa97642d00d605e6aa6,593,NA,yellows,20,orange,orange,5593.8
+5f6b9fa97642d00d605e6aa6,594,NA,blues,1,light blue,light blue,11597
+5f6b9fa97642d00d605e6aa6,595,NA,blues,20,blue,blue,2173.4
+5f6b9fa97642d00d605e6aa6,596,NA,browns,20,brown,brown,3141.7
+5f6b9fa97642d00d605e6aa6,597,NA,reds,20,red,red,2090.2
+5f6b9fa97642d00d605e6aa6,598,NA,yellows,1,yellow,yellow,2435.5
+5f6b9fa97642d00d605e6aa6,599,NA,browns,1,light brown,light brown,6159.8
+5f6b9fa97642d00d605e6aa6,600,NA,reds,1,pink,pink,2347.4
+5f6e36c7f042f033d0f97bc1,593,NA,yellows,20,orange,orange,5480
+5f6e36c7f042f033d0f97bc1,594,NA,browns,20,brown,brown,4260.8
+5f6e36c7f042f033d0f97bc1,595,NA,browns,1,tan,tan,2588.9
+5f6e36c7f042f033d0f97bc1,596,NA,yellows,1,yellow,yellow,2452.1
+5f6e36c7f042f033d0f97bc1,597,NA,blues,1,light blue,light blue,3045.2
+5f6e36c7f042f033d0f97bc1,598,NA,blues,20,dark blue,dark blue,4652.7
+5f6e36c7f042f033d0f97bc1,599,NA,reds,1,pink,pink,1932.2
+5f6e36c7f042f033d0f97bc1,600,NA,reds,20,red,red,1908.6
+5f6e72f4f0d70a3c02af4ee6,593,NA,yellows,1,Neon green,Neon green,10661.205
+5f6e72f4f0d70a3c02af4ee6,594,NA,browns,1,tan,tan,7905.805
+5f6e72f4f0d70a3c02af4ee6,595,NA,blues,20,blue,blue,5304.67
+5f6e72f4f0d70a3c02af4ee6,596,NA,yellows,20,orange,orange,5351.485
+5f6e72f4f0d70a3c02af4ee6,597,NA,browns,20,brown,brown,2586.645
+5f6e72f4f0d70a3c02af4ee6,598,NA,blues,1,light blue,light blue,4794.175
+5f6e72f4f0d70a3c02af4ee6,599,NA,reds,1,pink,pink,2497.53
+5f6e72f4f0d70a3c02af4ee6,600,NA,reds,20,red,red,1802.535
+5f725cf469e1cf195586cf1d,593,NA,yellows,1,Yellow,Yellow,3690.2
+5f725cf469e1cf195586cf1d,594,NA,blues,1,Light Blue,Light Blue,2738.8
+5f725cf469e1cf195586cf1d,595,NA,browns,20,Brown,Brown,1405.5
+5f725cf469e1cf195586cf1d,596,NA,reds,1,Pink,Pink,1997.3
+5f725cf469e1cf195586cf1d,597,NA,yellows,20,Orange,Orange,1462
+5f725cf469e1cf195586cf1d,598,NA,reds,20,Red,Red,1131.7
+5f725cf469e1cf195586cf1d,599,NA,blues,20,Blue,Blue,3589.8
+5f725cf469e1cf195586cf1d,600,NA,browns,1,Tan,Tan,2099.3
+5f77c6e4ab4243351722368c,593,NA,blues,1,Lt blue,Lt blue,10734.7
+5f77c6e4ab4243351722368c,594,NA,browns,1,beige,beige,4432.7
+5f77c6e4ab4243351722368c,595,NA,browns,20,dr brown,dr brown,4349
+5f77c6e4ab4243351722368c,596,NA,reds,1,pink,pink,2608.2
+5f77c6e4ab4243351722368c,597,NA,reds,20,red,red,2072.2
+5f77c6e4ab4243351722368c,598,NA,yellows,1,yellow,yellow,3961.3
+5f77c6e4ab4243351722368c,599,NA,blues,20,blue,blue,2689.3
+5f77c6e4ab4243351722368c,600,NA,yellows,20,orange,orange,2536
+5f7a35fd77a52012998ad75f,593,NA,blues,20,cobalt blue,cobalt blue,14090.7
+5f7a35fd77a52012998ad75f,594,NA,browns,20,chocolate brown,chocolate brown,7040.4
+5f7a35fd77a52012998ad75f,595,NA,reds,20,fire engine red,fire engine red,7644.7
+5f7a35fd77a52012998ad75f,596,NA,blues,1,sky blue,sky blue,5848.8
+5f7a35fd77a52012998ad75f,597,NA,browns,1,sand beige,sand beige,6951
+5f7a35fd77a52012998ad75f,598,NA,reds,1,cotton candy pink,cotton candy pink,6720.3
+5f7a35fd77a52012998ad75f,599,NA,yellows,20,dark orange,dark orange,7308.5
+5f7a35fd77a52012998ad75f,600,NA,yellows,1,neon yellow,neon yellow,5852.7
+5f877e0715f8781a0c7c3ab8,593,NA,blues,1,Baby blue,Baby blue,52622.5
+5f877e0715f8781a0c7c3ab8,594,NA,reds,1,Pink,Pink,6507.3
+5f877e0715f8781a0c7c3ab8,595,NA,blues,20,Royal blue,Royal blue,24374
+5f877e0715f8781a0c7c3ab8,596,NA,yellows,20,Orange,Orange,10528.1
+5f877e0715f8781a0c7c3ab8,597,NA,reds,20,Red,Red,3485.1
+5f877e0715f8781a0c7c3ab8,598,NA,browns,20,Brown,Brown,5056
+5f877e0715f8781a0c7c3ab8,599,NA,browns,1,Tan,Tan,9949
+5f877e0715f8781a0c7c3ab8,600,NA,yellows,1,Yellow,Yellow,3537.4
+5f8a1fcf2773900d456a3e70,593,NA,reds,1,pink,pink,6081.2
+5f8a1fcf2773900d456a3e70,594,NA,browns,1,tan,tan,3100.8
+5f8a1fcf2773900d456a3e70,595,NA,yellows,1,yellow,yellow,2574.8
+5f8a1fcf2773900d456a3e70,596,NA,reds,20,red,red,1401
+5f8a1fcf2773900d456a3e70,597,NA,blues,20,blue,blue,1880.7
+5f8a1fcf2773900d456a3e70,598,NA,blues,1,light blue,light blue,8412.2
+5f8a1fcf2773900d456a3e70,599,NA,yellows,20,orange,orange,3816.3
+5f8a1fcf2773900d456a3e70,600,NA,browns,20,brown,brown,1798.1
+5f8abb46e069641705242732,593,NA,browns,20,Brown,Brown,22720.9
+5f8abb46e069641705242732,594,NA,blues,1,Light blue,Light blue,13229.7
+5f8abb46e069641705242732,595,NA,reds,1,Pink,Pink,10060.6
+5f8abb46e069641705242732,596,NA,browns,1,Light brown,Light brown,22175.6
+5f8abb46e069641705242732,597,NA,reds,20,Red,Red,7286.7
+5f8abb46e069641705242732,598,NA,yellows,1,Yellow,Yellow,15945.1
+5f8abb46e069641705242732,599,NA,blues,20,Blue,Blue,5134.3
+5f8abb46e069641705242732,600,NA,yellows,20,Orange,Orange,7905.7
+5f91a4aeb9f8bc031e8c27c9,593,NA,browns,1,bronze,bronze,65324.835
+5f91a4aeb9f8bc031e8c27c9,594,NA,reds,20,red,red,5257.62
+5f91a4aeb9f8bc031e8c27c9,595,NA,reds,1,purple,purple,8102.115
+5f91a4aeb9f8bc031e8c27c9,596,NA,browns,20,brown,brown,6514.795
+5f91a4aeb9f8bc031e8c27c9,597,NA,blues,1,cyan,cyan,10160.29
+5f91a4aeb9f8bc031e8c27c9,598,NA,yellows,1,gold,gold,10790.97
+5f91a4aeb9f8bc031e8c27c9,599,NA,blues,20,blue,blue,5204.095
+5f91a4aeb9f8bc031e8c27c9,600,NA,yellows,20,coral,coral,7207.385
+5f91a6bf59acc003a749718a,593,NA,yellows,20,Orange,Orange,79940.6
+5f91a6bf59acc003a749718a,594,NA,browns,1,Sepia,Sepia,51254.8
+5f91a6bf59acc003a749718a,595,NA,reds,20,Red,Red,33457.5
+5f91a6bf59acc003a749718a,596,NA,blues,1,Baby blue,Baby blue,24519
+5f91a6bf59acc003a749718a,597,NA,blues,20,Blue,Blue,18476.4
+5f91a6bf59acc003a749718a,598,NA,yellows,1,Yellow,Yellow,6001.2
+5f91a6bf59acc003a749718a,599,NA,browns,20,Chocolate,Chocolate,25672.7
+5f91a6bf59acc003a749718a,600,NA,reds,1,Rose pink,Rose pink,54849.1
+5f93186d0e61130ad2fe395c,593,NA,blues,1,2,2,19636.955
+5f93186d0e61130ad2fe395c,594,NA,yellows,20,3,3,21734.335
+5f93186d0e61130ad2fe395c,595,NA,browns,20,7,7,6686.35
+5f93186d0e61130ad2fe395c,596,NA,reds,1,1,1,4224.76
+5f93186d0e61130ad2fe395c,597,NA,browns,1,3,3,4967.12
+5f93186d0e61130ad2fe395c,598,NA,reds,20,4,4,5259.35
+5f93186d0e61130ad2fe395c,599,NA,yellows,1,5,5,4989.735
+5f93186d0e61130ad2fe395c,600,NA,blues,20,6,6,3257.86
+5f95c66b95185d4515eeec8d,593,NA,reds,1,Pink,Pink,3358.6
+5f95c66b95185d4515eeec8d,594,NA,reds,20,Red,Red,1808.8
+5f95c66b95185d4515eeec8d,595,NA,browns,1,Beige,Beige,3697
+5f95c66b95185d4515eeec8d,596,NA,blues,20,Blue,Blue,3059
+5f95c66b95185d4515eeec8d,597,NA,browns,20,Brown,Brown,3299.8
+5f95c66b95185d4515eeec8d,598,NA,yellows,1,Yellow,Yellow,3015.3
+5f95c66b95185d4515eeec8d,599,NA,blues,1,Blue,Blue,2728.1
+5f95c66b95185d4515eeec8d,600,NA,yellows,20,Orange,Orange,5065.6
+5f969b802a498b000aab2571,593,NA,blues,20,blue,blue,2745.4
+5f969b802a498b000aab2571,594,NA,blues,1,light blue,light blue,4474.2
+5f969b802a498b000aab2571,595,NA,yellows,20,orange,orange,3334.4
+5f969b802a498b000aab2571,596,NA,browns,20,dark brown,dark brown,3838
+5f969b802a498b000aab2571,597,NA,reds,1,pink,pink,2788
+5f969b802a498b000aab2571,598,NA,reds,20,red,red,2539.8
+5f969b802a498b000aab2571,599,NA,yellows,1,yellow,yellow,3215
+5f969b802a498b000aab2571,600,NA,browns,1,tan,tan,2942.6
+5f9e394bfc6fc63e6317cf9f,593,NA,reds,20,red,red,2062.5
+5f9e394bfc6fc63e6317cf9f,594,NA,browns,20,brown,brown,2258
+5f9e394bfc6fc63e6317cf9f,595,NA,blues,1,baby blue,baby blue,2996.6
+5f9e394bfc6fc63e6317cf9f,596,NA,yellows,20,orange,orange,2862.5
+5f9e394bfc6fc63e6317cf9f,597,NA,blues,20,royal blue,royal blue,2920.4
+5f9e394bfc6fc63e6317cf9f,598,NA,browns,1,tan,tan,2396.8
+5f9e394bfc6fc63e6317cf9f,599,NA,yellows,1,yellow,yellow,1587.5
+5f9e394bfc6fc63e6317cf9f,600,NA,reds,1,pink,pink,3231.6
+5f9ec66a5a97fa0748bc61a3,593,NA,yellows,1,yellow,yellow,10434.1
+5f9ec66a5a97fa0748bc61a3,594,NA,reds,20,red,red,3745.3
+5f9ec66a5a97fa0748bc61a3,595,NA,reds,1,pink,pink,5209.4
+5f9ec66a5a97fa0748bc61a3,596,NA,browns,20,brown,brown,8994.4
+5f9ec66a5a97fa0748bc61a3,597,NA,browns,1,beige,beige,5273.2
+5f9ec66a5a97fa0748bc61a3,598,NA,blues,1,blue,blue,4270.6
+5f9ec66a5a97fa0748bc61a3,599,NA,yellows,20,orange,orange,4636.2
+5f9ec66a5a97fa0748bc61a3,600,NA,blues,20,blue,blue,3776.9
+5fb0eec9fa92bc4ffa483efa,593,NA,blues,1,Light blue,Light blue,7849.3
+5fb0eec9fa92bc4ffa483efa,594,NA,reds,20,Red,Red,3208.9
+5fb0eec9fa92bc4ffa483efa,595,NA,browns,20,Brown,Brown,3992.5
+5fb0eec9fa92bc4ffa483efa,596,NA,reds,1,Pink,Pink,3759.6
+5fb0eec9fa92bc4ffa483efa,597,NA,browns,1,Tan,Tan,5592.6
+5fb0eec9fa92bc4ffa483efa,598,NA,blues,20,Blue,Blue,4004
+5fb0eec9fa92bc4ffa483efa,599,NA,yellows,1,Yellow,Yellow,5584.1
+5fb0eec9fa92bc4ffa483efa,600,NA,yellows,20,Orange,Orange,3667
+5fb74a867e9d5026dbe81184,593,NA,yellows,20,orange,orange,2932.2
+5fb74a867e9d5026dbe81184,594,NA,yellows,1,yellow,yellow,2251.6
+5fb74a867e9d5026dbe81184,595,NA,reds,20,red,red,1276.2
+5fb74a867e9d5026dbe81184,596,NA,blues,20,blue,blue,1518.2
+5fb74a867e9d5026dbe81184,597,NA,blues,1,blue,blue,1469.9
+5fb74a867e9d5026dbe81184,598,NA,reds,1,pink,pink,1575.4
+5fb74a867e9d5026dbe81184,599,NA,browns,1,brown,brown,1726.3
+5fb74a867e9d5026dbe81184,600,NA,browns,20,brown,brown,2017.6
+5fbcba5a9b4bfe18cd49abea,593,NA,reds,1,Pink,Pink,5632.3
+5fbcba5a9b4bfe18cd49abea,594,NA,reds,20,Red,Red,1336.5
+5fbcba5a9b4bfe18cd49abea,595,NA,blues,20,Blue,Blue,1300.5
+5fbcba5a9b4bfe18cd49abea,596,NA,browns,20,Brown,Brown,1553.6
+5fbcba5a9b4bfe18cd49abea,597,NA,browns,1,Tan,Tan,1369.8
+5fbcba5a9b4bfe18cd49abea,598,NA,yellows,1,Yellow,Yellow,1640.3
+5fbcba5a9b4bfe18cd49abea,599,NA,blues,1,Light blue,Light blue,5096
+5fbcba5a9b4bfe18cd49abea,600,NA,yellows,20,Orange,Orange,1535.3
+5fbdc4f0784d3f225d8d96d1,593,NA,browns,1,tan,tan,4445
+5fbdc4f0784d3f225d8d96d1,594,NA,yellows,20,orange,orange,1525.7
+5fbdc4f0784d3f225d8d96d1,595,NA,reds,20,red,red,1231.3
+5fbdc4f0784d3f225d8d96d1,596,NA,blues,20,blue,blue,1252.2
+5fbdc4f0784d3f225d8d96d1,597,NA,browns,20,brown,brown,1719.4
+5fbdc4f0784d3f225d8d96d1,598,NA,yellows,1,yellow,yellow,2300.9
+5fbdc4f0784d3f225d8d96d1,599,NA,reds,1,pink,pink,1706.7
+5fbdc4f0784d3f225d8d96d1,600,NA,blues,1,baby blue,baby blue,3239
+5fc97909520cd94a49b6b870,593,NA,yellows,20,orange,orange,5306.6
+5fc97909520cd94a49b6b870,594,NA,reds,20,red,red,1478.1
+5fc97909520cd94a49b6b870,595,NA,browns,1,beige,beige,4744.7
+5fc97909520cd94a49b6b870,596,NA,reds,1,purple,purple,3979.8
+5fc97909520cd94a49b6b870,597,NA,blues,1,light blue,light blue,4193.6
+5fc97909520cd94a49b6b870,598,NA,yellows,1,yellow,yellow,2681.3
+5fc97909520cd94a49b6b870,599,NA,blues,20,blue,blue,1183.9
+5fc97909520cd94a49b6b870,600,NA,browns,20,brown,brown,1580.3
+5fc9df1d3927165247d43169,593,NA,browns,1,Beige,Beige,4346.5
+5fc9df1d3927165247d43169,594,NA,reds,20,Hot pink,Hot pink,7198.9
+5fc9df1d3927165247d43169,595,NA,yellows,1,yellow,yellow,5059.5
+5fc9df1d3927165247d43169,596,NA,blues,1,sky blue,sky blue,4999.8
+5fc9df1d3927165247d43169,597,NA,reds,1,pink,pink,4456.7
+5fc9df1d3927165247d43169,598,NA,blues,20,blue,blue,6024.4
+5fc9df1d3927165247d43169,599,NA,yellows,20,orange,orange,2657
+5fc9df1d3927165247d43169,600,NA,browns,20,brown,brown,3938.1
+5fee0c90eb52700cd9752702,593,NA,browns,1,taupe,taupe,7810
+5fee0c90eb52700cd9752702,594,NA,reds,1,chartreuse,chartreuse,13841
+5fee0c90eb52700cd9752702,595,NA,browns,20,brown,brown,4825
+5fee0c90eb52700cd9752702,596,NA,blues,20,royal blue,royal blue,6517
+5fee0c90eb52700cd9752702,597,NA,yellows,20,orange,orange,4021
+5fee0c90eb52700cd9752702,598,NA,blues,1,baby blue,baby blue,5148
+5fee0c90eb52700cd9752702,599,NA,yellows,1,brilliant yellow,brilliant yellow,10047
+5fee0c90eb52700cd9752702,600,NA,reds,20,crimson red,crimson red,6685
+5ff1b52cbf7c8260c8c0c581,593,NA,reds,1,pink,pink,19765
+5ff1b52cbf7c8260c8c0c581,594,NA,yellows,1,yellow,yellow,8629
+5ff1b52cbf7c8260c8c0c581,595,NA,blues,1,light green,light green,10272
+5ff1b52cbf7c8260c8c0c581,596,NA,browns,1,light brown,light brown,25056
+5ff1b52cbf7c8260c8c0c581,597,NA,browns,20,dip brown ,dip brown ,16204
+5ff1b52cbf7c8260c8c0c581,598,NA,yellows,20,light orange,light orange,16115
+5ff1b52cbf7c8260c8c0c581,599,NA,blues,20,blue,blue,7990
+5ff1b52cbf7c8260c8c0c581,600,NA,reds,20,red,red,4030
+5ff4d7ede66d7fc6b58cfe3f,593,NA,yellows,1,yellow,yellow,6540.3
+5ff4d7ede66d7fc6b58cfe3f,594,NA,blues,20,blue,blue,2190.9
+5ff4d7ede66d7fc6b58cfe3f,595,NA,reds,1,pink,pink,3475.8
+5ff4d7ede66d7fc6b58cfe3f,596,NA,blues,1,turquoise,turquoise,7503.7
+5ff4d7ede66d7fc6b58cfe3f,597,NA,yellows,20,orange,orange,2482.4
+5ff4d7ede66d7fc6b58cfe3f,598,NA,browns,20,brown,brown,1860.8
+5ff4d7ede66d7fc6b58cfe3f,599,NA,browns,1,tan,tan,2577.7
+5ff4d7ede66d7fc6b58cfe3f,600,NA,reds,20,red,red,1442.8
+5ff6ae61f67a7d263545419e,593,NA,yellows,1,Bright Yellow,Bright Yellow,8005.86
+5ff6ae61f67a7d263545419e,594,NA,yellows,20,Orange,Orange,9158.21
+5ff6ae61f67a7d263545419e,595,NA,blues,20,Dark Blue,Dark Blue,5122.425
+5ff6ae61f67a7d263545419e,596,NA,reds,20,Red,Red,1389.54
+5ff6ae61f67a7d263545419e,597,NA,blues,1,Light Blue,Light Blue,2423.74
+5ff6ae61f67a7d263545419e,598,NA,browns,20,Dark Brown,Dark Brown,4852.72
+5ff6ae61f67a7d263545419e,599,NA,reds,1,Pink,Pink,2216.25
+5ff6ae61f67a7d263545419e,600,NA,browns,1,Sandy Brown,Sandy Brown,10418.025
+5ffa01eb7dfb43387a868196,593,NA,reds,20,red,red,5872.2
+5ffa01eb7dfb43387a868196,594,NA,blues,1,light blue,light blue,8039.3
+5ffa01eb7dfb43387a868196,595,NA,reds,1,magenta,magenta,15937.6
+5ffa01eb7dfb43387a868196,596,NA,yellows,20,orange,orange,1696
+5ffa01eb7dfb43387a868196,597,NA,browns,20,dark brown,dark brown,7010.4
+5ffa01eb7dfb43387a868196,598,NA,yellows,1,yello,yellow,2960.9
+5ffa01eb7dfb43387a868196,599,NA,blues,20,blue,blue,4466.2
+5ffa01eb7dfb43387a868196,600,NA,browns,1,tan,tan,1712.3
+5ffcd83b5991d41cc6d5cb40,593,NA,yellows,20,Orange,Orange,5000.7
+5ffcd83b5991d41cc6d5cb40,594,NA,blues,1,Baby blue,Baby blue,5614.6
+5ffcd83b5991d41cc6d5cb40,595,NA,yellows,1,Yellow,Yellow,6967
+5ffcd83b5991d41cc6d5cb40,596,NA,browns,1,Tan,Tan,3617.5
+5ffcd83b5991d41cc6d5cb40,597,NA,reds,1,Pink,Pink,3230.2
+5ffcd83b5991d41cc6d5cb40,598,NA,reds,20,Red,Red,2387
+5ffcd83b5991d41cc6d5cb40,599,NA,blues,20,Cornflower blue,Cornflower blue,6494.7
+5ffcd83b5991d41cc6d5cb40,600,NA,browns,20,Brown,Brown,4032.9
+601785dd817de29d1f1cf000,593,NA,reds,1,pink,pink,4367.26
+601785dd817de29d1f1cf000,594,NA,blues,1,blue,blue,1390.05
+601785dd817de29d1f1cf000,595,NA,yellows,1,yellow,yellow,1685.01
+601785dd817de29d1f1cf000,596,NA,reds,20,red,red,1157.055
+601785dd817de29d1f1cf000,597,NA,blues,20,blue,blue,2410.215
+601785dd817de29d1f1cf000,598,NA,yellows,20,orange,orange,1670.295
+601785dd817de29d1f1cf000,599,NA,browns,20,brown,brown,1522.875
+601785dd817de29d1f1cf000,600,NA,browns,1,beige ,beige ,2276.785
+601b781bf899975399541513,593,NA,blues,1,blue,blue,3827.8
+601b781bf899975399541513,594,NA,blues,20,blue,blue,2125.7
+601b781bf899975399541513,595,NA,reds,1,pink,pink,2418.4
+601b781bf899975399541513,596,NA,browns,20,brown,brown,1666.5
+601b781bf899975399541513,597,NA,yellows,1,yellow,yellow,2549
+601b781bf899975399541513,598,NA,yellows,20,orange,orange,1784.7
+601b781bf899975399541513,599,NA,reds,20,red,red,1989
+601b781bf899975399541513,600,NA,browns,1,tan,tan,1565.2
+601f132d3ff3da3fb7b4e56d,593,NA,reds,20,Red,Red,7876.3
+601f132d3ff3da3fb7b4e56d,594,NA,reds,1,Pink,Pink,4482.8
+601f132d3ff3da3fb7b4e56d,595,NA,browns,1,Brown,Brown,10198.6
+601f132d3ff3da3fb7b4e56d,596,NA,yellows,20,Orange,Orange,4075.8
+601f132d3ff3da3fb7b4e56d,597,NA,browns,20,Brown,Brown,4625.7
+601f132d3ff3da3fb7b4e56d,598,NA,yellows,1,Yellow,Yellow,3803.2
+601f132d3ff3da3fb7b4e56d,599,NA,blues,20,Blue,Blue,4043.3
+601f132d3ff3da3fb7b4e56d,600,NA,blues,1,Blue,Blue,4042.6
+60255cc2f0319509011ac0a8,593,NA,yellows,20,orange,orange,5606.955
+60255cc2f0319509011ac0a8,594,NA,reds,1,pink,pink,4824.365
+60255cc2f0319509011ac0a8,595,NA,yellows,1,yellow,yellow,4893.175
+60255cc2f0319509011ac0a8,596,NA,browns,20,brown,brown,4330.92
+60255cc2f0319509011ac0a8,597,NA,reds,20,red,red,2593.235
+60255cc2f0319509011ac0a8,598,NA,browns,1,cream,cream,5163.515
+60255cc2f0319509011ac0a8,599,NA,blues,20,blue,blue,2899.895
+60255cc2f0319509011ac0a8,600,NA,blues,1,light blue,light blue,4535.365
+6025da04bd46501e3f2b3901,593,NA,blues,20,blue,blue,13044
+6025da04bd46501e3f2b3901,594,NA,yellows,20,orange,orange,6316.1
+6025da04bd46501e3f2b3901,595,NA,yellows,1,yellow,yellow,7105.6
+6025da04bd46501e3f2b3901,596,NA,browns,20,dark brown,dark brown,8527.9
+6025da04bd46501e3f2b3901,597,NA,reds,20,red,red,3585.7
+6025da04bd46501e3f2b3901,598,NA,browns,1,tan,tan,5719
+6025da04bd46501e3f2b3901,599,NA,blues,1,robin egg blue,robin egg blue,11347.8
+6025da04bd46501e3f2b3901,600,NA,reds,1,pink,pink,4565.7
+6027f630f4090f0b33126810,593,NA,yellows,20,orange,orange,5267.4
+6027f630f4090f0b33126810,594,NA,browns,1,tan,tan,2680.4
+6027f630f4090f0b33126810,595,NA,reds,20,red,red,1099.5
+6027f630f4090f0b33126810,596,NA,blues,20,blue,blue,1470.9
+6027f630f4090f0b33126810,597,NA,yellows,1,yellow,yellow,1518.6
+6027f630f4090f0b33126810,598,NA,reds,1,pink,pink,1626.3
+6027f630f4090f0b33126810,599,NA,browns,20,brown,brown,1475.1
+6027f630f4090f0b33126810,600,NA,blues,1,light blue,light blue,3082.3
+6029d28bc597e04077e8d2a9,593,NA,browns,20,Brown,Brown,4584.8
+6029d28bc597e04077e8d2a9,594,NA,yellows,20,Orange,Orange,2542.7
+6029d28bc597e04077e8d2a9,595,NA,yellows,1,Yellow,Yellow,2164.1
+6029d28bc597e04077e8d2a9,596,NA,browns,1,Beige,Beige,3781.5
+6029d28bc597e04077e8d2a9,597,NA,blues,20,Blue,Blue,1851.6
+6029d28bc597e04077e8d2a9,598,NA,reds,1,Pink,Pink,1988.5
+6029d28bc597e04077e8d2a9,599,NA,reds,20,Red,Red,1996.7
+6029d28bc597e04077e8d2a9,600,NA,blues,1,Blue,Blue,1732.1
+602f3f4b63f201c29e4a09e6,593,NA,blues,1,teal,teal,3722.4
+602f3f4b63f201c29e4a09e6,594,NA,reds,20,red,red,1348.9
+602f3f4b63f201c29e4a09e6,595,NA,yellows,1,yellow,yellow,2155.2
+602f3f4b63f201c29e4a09e6,596,NA,browns,1,tan,tan,1416.4
+602f3f4b63f201c29e4a09e6,597,NA,reds,1,pink,pink,1593.9
+602f3f4b63f201c29e4a09e6,598,NA,browns,20,brown,brown,2868.3
+602f3f4b63f201c29e4a09e6,599,NA,blues,20,blue,blue,1428.6
+602f3f4b63f201c29e4a09e6,600,NA,yellows,20,orange,orange,2368.8
+6046c01189a49f1174474845,593,NA,reds,1,pink,pink,6200
+6046c01189a49f1174474845,594,NA,browns,1,light brown,light brown,7278
+6046c01189a49f1174474845,595,NA,blues,1,light blue,light blue,3567
+6046c01189a49f1174474845,596,NA,yellows,20,orange,orange,1739
+6046c01189a49f1174474845,597,NA,browns,20,dark purple,dark purple,3115
+6046c01189a49f1174474845,598,NA,yellows,1,yellow,yellow,6307
+6046c01189a49f1174474845,599,NA,reds,20,dark pink,dark pink,15765
+6046c01189a49f1174474845,600,NA,blues,20,dark blue,dark blue,6288
+605910bdcee62314abcb6e1a,593,NA,browns,20,Brown,Brown,6534
+605910bdcee62314abcb6e1a,594,NA,browns,1,Bronze,Bronze,7291
+605910bdcee62314abcb6e1a,595,NA,reds,20,Mustang Red,Mustang Red,15945
+605910bdcee62314abcb6e1a,596,NA,blues,1,Sea Blue,Sea Blue,12524
+605910bdcee62314abcb6e1a,597,NA,reds,1,Pepto Bismol Pink,Pepto Bismol Pink,7385
+605910bdcee62314abcb6e1a,598,NA,blues,20,Deep Blue,Deep Blue,10898
+605910bdcee62314abcb6e1a,599,NA,yellows,20,Orange,Orange,9216
+605910bdcee62314abcb6e1a,600,NA,yellows,1,Yellow,Yellow,3985
+6077c381501a8b960a87d7f4,593,NA,browns,20,Brown,Brown,8561.6
+6077c381501a8b960a87d7f4,594,NA,blues,20,blue,blue,2517.6
+6077c381501a8b960a87d7f4,595,NA,blues,1,light blue,light blue,3538.6
+6077c381501a8b960a87d7f4,596,NA,yellows,20,orange,orange,1831.3
+6077c381501a8b960a87d7f4,597,NA,yellows,1,yellow,yellow,1664.4
+6077c381501a8b960a87d7f4,598,NA,reds,1,pink,pink,2954.8
+6077c381501a8b960a87d7f4,599,NA,reds,20,red,red,1450.5
+6077c381501a8b960a87d7f4,600,NA,browns,1,tan,tan,2873
+609b811d9d05a519c3852c63,593,NA,browns,20,brown,brown,7239.71
+609b811d9d05a519c3852c63,594,NA,reds,20,red,red,2743.875
+609b811d9d05a519c3852c63,595,NA,yellows,1,yellow,yellow,3826.145
+609b811d9d05a519c3852c63,596,NA,blues,1,light blue,light blue,7109.08
+609b811d9d05a519c3852c63,597,NA,reds,1,violet,violet,5057.005
+609b811d9d05a519c3852c63,598,NA,blues,20,blue,blue,5467.915
+609b811d9d05a519c3852c63,599,NA,yellows,20,orange,orange,3966.575
+609b811d9d05a519c3852c63,600,NA,browns,1,tan,tan,4518.77
+60a6d23be0df47aadc568e37,593,NA,reds,1,pink,pink,4190.7
+60a6d23be0df47aadc568e37,594,NA,blues,20,blue,blue,4897.6
+60a6d23be0df47aadc568e37,595,NA,blues,1,light blue,light blue,2927.5
+60a6d23be0df47aadc568e37,596,NA,yellows,20,dark orange,dark orange,5871.4
+60a6d23be0df47aadc568e37,597,NA,yellows,1,yellow,yellow,4509.1
+60a6d23be0df47aadc568e37,598,NA,browns,1,peach,peach,7752.5
+60a6d23be0df47aadc568e37,599,NA,browns,20,brown,brown,1951.8
+60a6d23be0df47aadc568e37,600,NA,reds,20,bright red,bright red,5613.2
+60a6f6b0ba0f103f630b1ef8,593,NA,browns,20,brown,brown,24096.3
+60a6f6b0ba0f103f630b1ef8,594,NA,yellows,1,yellow,yellow,191138.8
+60a6f6b0ba0f103f630b1ef8,595,NA,reds,1,pink,pink,3417.6
+60a6f6b0ba0f103f630b1ef8,596,NA,yellows,20,orange,orange,61335.2
+60a6f6b0ba0f103f630b1ef8,597,NA,blues,20,deep blue,deep blue,10944.8
+60a6f6b0ba0f103f630b1ef8,598,NA,reds,20,red,red,5169.1
+60a6f6b0ba0f103f630b1ef8,599,NA,browns,1,brown,brown,104361.8
+60a6f6b0ba0f103f630b1ef8,600,NA,blues,1,light blue,light blue,5860.3
